@@ -61,7 +61,7 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 
 ## Åpne hypoteser å teste
 - E5 "deilig" vs "helt fantastisk" (sensorisk vs intensitet). Brief en deilig-variant i neste NakedSleeper-iterasjon, med begrunnelse.
-- "Surt sengetøy" som egen vinkel (Jonathans idé 8. sept): hvis C3 på S#67.1 presterer, test en egen surt-batch eller net new.
+- "Surt sengetøy" som egen vinkel (Jonathans idé 8. sept): hvis C3 på S#67.1 presterer, test en egen batch der surt er vinkelen (ikke bambus), eller net new senere. Surt har fungert i NakedSleeper også, men aldri isolert som egen variabel.
 
 ## Mål
 - Maks én revisjonsrunde fra Jonathan per batch

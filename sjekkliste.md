@@ -13,7 +13,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Sjekk Creative Roadmap: har Jonathan allerede laget denne? (S#77.1 A1)
 - [ ] Er noen annonse for lik en annen i batchen eller serien? Ny kopilinje eller nytt visuelt alene er ikke nok (S#77.1 D4, S#67.1 D4)
 - [ ] Når Håvard beholder noe som er flagget som likt: én linje i briefen om hvorfor (S#67.1 D4)
-- [ ] Vanskelig vinkling (f.eks. cooling i Norge)? Da større swings, ikke trygge kopier (S#67.1 D4)
+- [ ] Vanskelig vinkling (f.eks. cooling i Norge)? Da større swings, ikke trygge kopier. Mal fra Jonathan på fire annonser: to nær vinneren, to som er enda mer unike (mer top-of-funnel eller mikset budskap som C3) (S#67.1 D4)
 
 ## Copy
 - [ ] Null skrivefeil, også i notatene til Felix
@@ -23,7 +23,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Konseptnavn på engelsk (S#77.1)
 - [ ] Ingen ord gjentatt på tvers av USP-er, hver linje bærer sitt eget (S#67.1 A1: "naturlig" x3)
 - [ ] CTA tilfører noe headline og USP ikke gjør: risk reversal, garanti, "prøv risikofritt i X dager". Ellers dropp CTA (S#67.1 A1, B2)
-- [ ] Hvert element gjør en jobb: headline, USP/tekst, CTA sier ikke det samme tre ganger (S#67.1)
+- [ ] Hvert element gjør en jobb. Tekst under headline får bygge på headline, det er CTA som må tilføre noe nytt. Headline + tekst + CTA skal ikke si det samme tre ganger (S#67.1 A1, B2)
 - [ ] Alle språkkolonner speiler hverandre: norsk, dansk, engelsk. Samme CTA, samme entall/flertall, samme kulepunkter (S#67.1 C3, S#67.1 A1 v2)
 - [ ] Kolonneheadere stemmer med innholdet ("In danish" på dansk kolonne, ikke "In english") (S#67.1 A1 v2)
 - [ ] Risk reversal i CTA er faktisk gjeldende policy hos kunden, også per marked (S#67.1 A1 v2)
