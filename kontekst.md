@@ -47,7 +47,7 @@ Når en annonse crusher kjører han begge parallelt innenfor samme vinkling. Hå
 **CTA-filosofi:** "Jeg vil ikke legge inn CTA bare for å legge inn CTA. Den må bringe noe til bordet utover headline og USP-er." Eksempel: risk reversal, "prøv risikofritt i X dager", fornøydgaranti.
 
 ## Klient: Stille
-Bambussengetøy. Personas i bruk: NakedSleeper (sov naken / eksem-konsept, S#77), OverheatingSleeper (cooling-konsept, S#67). Husstil: "bambus sengesett" i to ord. Higgsfield kan være streng på hud, ha plan B for visuelt med hud.
+Bambussengetøy. Personas i bruk: NakedSleeper (sov naken / eksem-konsept, S#77), OverheatingSleeper (cooling-konsept, S#67). Husstil: "bambus sengesett" i to ord. Higgsfield kan være streng på hud, ha plan B for visuelt med hud. Dansk marked: Jonathan ba 8. sept om dansk versjon av S#67.1 i tillegg til norsk og engelsk. QA-tabellen skal ha egen dansk kolonne.
 
 ## Awareness stage (notat)
 Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy finnes, kjenner ikke Stille. Annonsens jobb er å vise at denne løsningen gir resultatet ("kjølende bambus er svaret"), ikke forklare problemet og ikke selge merket. Vinneren S#67 ITE-F6 B2 er solution aware. En batch kan spre seg over stadier, men det skal stå i briefen at spredningen er bevisst.

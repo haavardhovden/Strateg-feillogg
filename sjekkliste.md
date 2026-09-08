@@ -24,7 +24,9 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Ingen ord gjentatt på tvers av USP-er, hver linje bærer sitt eget (S#67.1 A1: "naturlig" x3)
 - [ ] CTA tilfører noe headline og USP ikke gjør: risk reversal, garanti, "prøv risikofritt i X dager". Ellers dropp CTA (S#67.1 A1, B2)
 - [ ] Hvert element gjør en jobb: headline, USP/tekst, CTA sier ikke det samme tre ganger (S#67.1)
-- [ ] Norsk og engelsk kolonne speiler hverandre (entall/flertall) (S#67.1 C3)
+- [ ] Alle språkkolonner speiler hverandre: norsk, dansk, engelsk. Samme CTA, samme entall/flertall, samme kulepunkter (S#67.1 C3, S#67.1 A1 v2)
+- [ ] Kolonneheadere stemmer med innholdet ("In danish" på dansk kolonne, ikke "In english") (S#67.1 A1 v2)
+- [ ] Risk reversal i CTA er faktisk gjeldende policy hos kunden, også per marked (S#67.1 A1 v2)
 
 ## QA-tabell / format
 - [ ] Label "USP:" ved punktliste, "Tekst under headline:" ved løpende tekst (S#67.1)
