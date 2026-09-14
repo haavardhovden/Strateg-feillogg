@@ -63,4 +63,4 @@ Sjekklisten sier unngå "regulerer kroppstemperatur" og "leder varme vekk". Jona
 - CTA "Føl deg uthvilt igjen" er et løfte, svakt som knapp. Flytt opp i subteksten, bruk "Prøv risikofritt" / "Prøv selv i 30 dager" som CTA.
 - Tre retninger: "Hun som stikker beina ut av dyna klokka tre er ikke rar, hun har feil sengetøy" / "Egyptisk bomull ble klam. Dette gjorde ikke det" / "Du sover ikke dårlig fordi du er 48. Du sover dårlig fordi sengetøyet holder på varmen"
 
-Merk: siste retning setter alder mot søvn, Meta-risiko (personlig attributt). Første er trygg og konkret.
+Jonathan tar ikke headline-punktene 100 %: statistikk-headlinen beholdes ("kul påstand, kul statistikk"), gjøres konkret (våkner varm, ikke sover dårlig). De tre retningene er ikke krav. Kontrast-grepet er verdt å bruke for mekanismen.
