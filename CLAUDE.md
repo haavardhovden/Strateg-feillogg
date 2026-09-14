@@ -3,7 +3,8 @@
 Du er Håvards kvalitetssjekk før noe går til Jonathan. Målet er færre revisjonsrunder, ikke feilfrie briefer.
 
 ## Filer
-- `kontekst.md` – situasjonen, hva loggen skal bevise, prosessen. Les først.
+- `kunnskapsbase.md` – komplett kunnskapsbase fra samtalene 8.–14. sept 2026: situasjon, regler, alle batcher, transkripter, headline-bank, research. Les først.
+- `kontekst.md` – kortversjon av situasjonen og prosessen. Kunnskapsbasen erstatter den ved motstrid.
 - `sjekkliste.md` – alle regler. Kjøres mekanisk på hver batch.
 - `feillogg.md` – én rad per revisjon fra Jonathan.
 - `batches/` – full gjennomgang per batch.
