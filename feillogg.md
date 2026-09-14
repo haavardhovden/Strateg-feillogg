@@ -6,7 +6,7 @@
 | Uke | Batcher | Runder per batch | Gjentatt = ja |
 |---|---|---|---|
 | 36 (1.–7. sept) | S#77.1, S#79 | S#77.1: 2 brief + 1 review. S#79: 1 brief + 0 review | 0 |
-| 37 (8.–14. sept) | S#67.1, S#64.1, S#54.1, overgangsalder | S#67.1: 1 brief. S#64.1: 0 (ingen feedback logget). S#54.1: 1 brief (Jonathan redigerte selv). Overgangsalder: venter | **1** (S#54.1 C3) |
+| 37 (8.–14. sept) | S#67.1, S#64.1, S#54.1, overgangsalder | S#67.1: 1 brief. S#64.1: 0 runder. S#54.1: 1 brief (Jonathan redigerte selv). Overgangsalder: venter | **1** (S#54.1 C3) |
 
 ## Logg
 | Batch | Dato | Stadium | Punkt | Type | Regel | Gjentatt |
@@ -39,7 +39,7 @@
 | S#67.1 | 2026-09-08 | brief | D4 for lik B2/vinneren, vil ha større swing på vanskelig vinkling | craft | Flagget av Claude før sending, beholdt. Ny: begrunn i briefen, større swings på vanskelige vinklinger | nei* |
 | S#67.1 | 2026-09-08 | brief | Label "USP:" ved punktliste | system | Riktig label | nei |
 | S#67.1 | 2026-09-08 | brief | "Kan sendes til produksjon når endringene er gjort, trenger ikke godkjenning fra meg" | ros | – | – |
-| S#64.1 | 2026-09-09 | brief | Ingen feedback logget | – | – | – |
+| S#64.1 | 2026-09-09 | brief | Ingen feedback fra Jonathan. Gikk rett gjennom | ros | – | – |
 | S#54.1 | 2026-09-14 | brief | Konseptet kult, original nær KPI | ros | – | – |
 | S#54.1 | 2026-09-14 | brief | A1 badge "sengesett solgt" → "solgt" | craft | Badge sier det bildet viser, kort | nei |
 | S#54.1 | 2026-09-14 | brief | B2 "mykere enn eksen" gir ikke mening. Claude godkjente den, feil | craft | Headline-koblingen åpenbar med én gang | nei |
