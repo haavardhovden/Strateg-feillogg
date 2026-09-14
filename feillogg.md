@@ -6,7 +6,7 @@
 | Uke | Batcher | Runder per batch | Gjentatt = ja |
 |---|---|---|---|
 | 36 (1.–7. sept) | S#77.1, S#79 | S#77.1: 2 brief + 1 review. S#79: 1 brief + 0 review | 0 |
-| 37 (8.–14. sept) | S#67.1, S#64.1, S#54.1, overgangsalder | S#67.1: 1 brief. S#64.1: 0 runder. S#54.1: 1 brief (Jonathan redigerte selv). Overgangsalder: venter | **1** (S#54.1 C3) |
+| 37 (8.–14. sept) | S#67.1, S#64.1, S#54.1, overgangsalder | S#67.1: 1 brief. S#64.1: 0 runder. S#54.1: 1 brief (Jonathan redigerte selv). Overgangsalder: 1 brief, revisjon pågår | **1** (S#54.1 C3) |
 
 ## Logg
 | Batch | Dato | Stadium | Punkt | Type | Regel | Gjentatt |
@@ -45,9 +45,18 @@
 | S#54.1 | 2026-09-14 | brief | B2 "mykere enn eksen" gir ikke mening. Claude godkjente den, feil | craft | Headline-koblingen åpenbar med én gang | nei |
 | S#54.1 | 2026-09-14 | brief | C3 for lik originalen, som lå under KPI. Roadmap sa urgent, ikke KPI. Claude sa "det er ok", feil | system | Sjekk KPI på video og statisk før iterasjon | **ja** (duplikatregel fra S#77.1 D4, S#67.1 D4) |
 | S#54.1 | 2026-09-14 | brief | Jonathan gjorde endringene selv "siden jeg ønsker at Felix skal begynne" | – | Teller som runde | – |
-| Overgangsalder | 2026-09-14 | brief | Sendt, venter feedback | – | – | – |
+| Overgangsalder | 2026-09-14 | brief | Hele batchen: "kjølende" uten mekanisme gir skepsis. Ingen landingsside å lene seg på. Pustende forstår folk, kjølende må forklares | craft | Kjølende krever mekanisme i annonsen. Diversifiser hvordan den sies på tvers av annonser | nei* |
+| Overgangsalder | 2026-09-14 | brief | A1 "Ingen svette netter" er en stor påstand rett på et stort problem, uten bro. Disconnect | craft | Stor påstand må bros med mekanisme, ellers dempes | nei |
+| Overgangsalder | 2026-09-14 | brief | B2 "sover dårlig" er paraply. Vær konkret: våkner varm, våkner klissvåt | craft | Konkret problem, ikke paraplybegrep | nei |
+| Overgangsalder | 2026-09-14 | brief | B2 tekst under headline lukker ikke gapet headlinen åpner. Rød tråd mangler | craft | Tekst under headline skal lukke headlinens problem mot dream outcome | nei |
+| Overgangsalder | 2026-09-14 | brief | C3 "Den er bra". Bare safe zone, Felix sin jobb | ros | – | – |
+| Overgangsalder | 2026-09-14 | brief | D4 linje to "Prøv kjølende bambussengetøy" closer for tidlig. Problem → close, uten benefit imellom. Jonathan endrer selv | craft | Struktur: problem → hvorfor/benefit → CTA. Aldri close rett etter problemet | nei |
+| Overgangsalder | 2026-09-14 | brief | Generelt: benefits sier ingenting alene. "Kjølende" → "så du sover uforstyrret uten oppvåkninger". Gå ett steg dypere til dream outcome | craft | Hver benefit knyttes til dream outcome | nei |
+| Overgangsalder | 2026-09-14 | brief | Jonathan dobbeltsjekket med Claude, fikk samme feedback. Ba om ny runde | info | – | – |
 
 S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke kunnskapsgap. Derav: sjekklisten kjøres i egen økt, og hver brief gjennom Claude før Jonathan.
+
+Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
 S#54.1 C3: duplikatregelen fantes fra S#77.1 D4 og S#67.1 D4. Tredje gang. Årsaken var at KPI ikke ble sjekket, derav KPI-regelen. Første ekte Gjentatt = ja.
 

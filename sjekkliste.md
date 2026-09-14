@@ -17,6 +17,8 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Vanskelig vinkling (f.eks. cooling i Norge)? Da større swings, ikke trygge kopier. Mal fra Jonathan på fire annonser: to nær vinneren, to som er enda mer unike (mer top-of-funnel eller mikset budskap som C3) (S#67.1 D4, S#54.1)
 - [ ] Hvert element gjør en jobb: headline, USP/tekst, CTA sier ikke det samme tre ganger. Tekst under headline får bygge på headline, det er CTA som må tilføre noe nytt (S#67.1 A1, B2)
 - [ ] Klarhet-enden eller nysgjerrighet-enden, aldri midten (static-videoen)
+- [ ] Struktur i hver annonse: problem → hvorfor/benefit → CTA. Aldri close rett etter problemet (overgangsalder D4)
+- [ ] Rød tråd: tekst under headline lukker det problemet headlinen åpner, mot dream outcome (overgangsalder B2)
 - [ ] Ny vinkling: avtal stoppregel med media buyer før lansering, f.eks. 1 000 kr per annonse eller 3 dager (S#79 skrudd av dag 2)
 
 ## Copy
@@ -26,6 +28,10 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Sjekk gamle top spenders for copy-mønstre som har vunnet før du skriver nytt (S#77.1 E5)
 - [ ] Konseptnavn på engelsk (S#77.1)
 - [ ] Mekanismen (bambus) er navngitt i hver annonse, også i testimonial-headlines. Blått sengetøy kan være hva som helst (S#79 A1, B2)
+- [ ] "Kjølende" forklares. Pustende forstår folk, kjølende er en stor påstand uten landingsside. Si hvordan, med ulike ord i ulike annonser (overgangsalder, hele batchen)
+- [ ] Stor påstand ("ingen svette netter") på stort problem trenger bro: mekanisme først, ellers demp påstanden (overgangsalder A1)
+- [ ] Konkret problem, ikke paraply. "Sover dårlig" → "våkner klissvåt" (overgangsalder B2)
+- [ ] Hver benefit går ett steg dypere til dream outcome. "Kjølende" → "så du sover gjennom natta uten å våkne" (overgangsalder)
 - [ ] Headline-koblingen er åpenbar med én gang. "Mykere enn eksen" gir ikke mening (S#54.1 B2)
 - [ ] Hver USP sier noe headlinen ikke sa (S#79 C3)
 - [ ] Ingen ord gjentatt på tvers av USP-er, hver linje bærer sitt eget (S#67.1 A1: "naturlig" x3)
@@ -47,7 +53,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 ## Påstander og policy
 - [ ] Ingen "100% bambus" (bambusviskose er prosessert cellulose; Forbrukertilsynet/FTC). "Sengetøy av bambus" eller "100% bambusviskose"
 - [ ] "Naturlig kjølende" er Stilles egne ord på produktsiden, ok å bruke
-- [ ] Unngå "hindrer", "leder varme vekk", "regulerer kroppstemperatur", "naturvitenskapelig mekanisme". Bruk "føles kjølig", "puster", "så du slipper"
+- [ ] Unngå "hindrer", "leder varme vekk", "regulerer kroppstemperatur", "naturvitenskapelig mekanisme". Bruk "føles kjølig", "puster", "så du slipper". Mekanisme-kravet fra Jonathan løses med hverdagsord om fiber og fukt, ikke fysikk
 - [ ] Ikke lov søvn ("løsningen på god søvn", "sov bedre" er gult)
 - [ ] Ikke sett produktet opp mot medisinsk behandling ("uten hormonbehandling", "uten fastlege", "uten HRT") (overgangsalder A1)
 - [ ] Meta: spørsmål til leseren om helsetilstand ("Midt i overgangsalderen og nattesvette?") er personlig attributt-risiko. Tall om målgruppen er greit. Sitat fra kunde er greit (overgangsalder D4, beholdt bevisst)

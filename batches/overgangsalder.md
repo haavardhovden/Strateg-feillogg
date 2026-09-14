@@ -1,6 +1,6 @@
 # Overgangsalder – net new persona (14. sept 2026)
 
-Sendt 14. sept, venter feedback. Full copy og policyvurderinger i kunnskapsbase.md seksjon 10.
+Sendt 14. sept. Feedback fra Jonathan (Loom) samme dag: revisjonsrunde. Runder: 1 brief. Full copy og policyvurderinger i kunnskapsbase.md seksjon 10.
 Persona: kvinner i overgangsalderen (foreslått navn: ST:MenopauseSleeper). Awareness: problem aware (C3 tester solution/product aware). Type: net new. Kun Norge + engelsk til Felix. Én persona, én vinkling, ett tilbud, fire formater. Testen er "treffer overgangsalder som persona", ikke fire vinklinger.
 
 ### Endelig copy
@@ -41,3 +41,15 @@ Kilde 60 %: https://nhi.no/livsstil/egenomsorg/darlig-sovn-i-overgangsalderen-sl
 Kommentarer til Jonathan: kilde til 60 %, kan korte ned C3, originalannonsen lenket.
 
 ---
+
+### Jonathans Loom (14. sept), oppsummert
+- **Hele batchen:** "kjølende" uten mekanisme gir skepsis. Ingen landingsside som kan bære påstanden. Pustende forstår folk (hull mellom fibrene), kjølende må forklares. Diversifiser hvordan det sies, ikke samme tekst i alle annonser som i eksen-batchen.
+- **A1:** "Ingen svette netter" på et så stort problem er disconnect. Dame som våkner klissvåt tror ikke på det. Bro med mekanisme.
+- **B2:** "sover dårlig" er paraply. Konkret: våkner varm / klissvåt. Tekst under headline skal lukke gapet headlinen åpner, så leseren sitter igjen med "derfor blir ikke jeg en av de 6 av 10". Rød tråd headline → tekst → dream outcome.
+- **C3:** "Den er bra." Safe zone er Felix sin jobb.
+- **D4:** Linje to "Prøv kjølende bambussengetøy" closer rett etter problemet. Struktur skal være problem → hvorfor/benefit → CTA. Linje to burde vært CTA-en, med curiosity gap imellom. Jonathan endrer selv, Håvard skal se over.
+- **Generelt:** Benefit alene betyr ingenting. Gå ett steg dypere: "kjølende" → "sover uforstyrret uten oppvåkninger". USP → dream outcome.
+- Jonathan dobbeltsjekket med Claude, samme feedback. "Ta en ny runde og si fra hvis du er uenig."
+
+### Spenning mot policy
+Sjekklisten sier unngå "regulerer kroppstemperatur" og "leder varme vekk". Jonathan vil ha mekanisme. Løsning: hverdagsord. "Bambusfiberet puster og trekker fukten vekk fra huden, så du ikke våkner klissvåt." Fiber og fukt, ikke fysikk.
