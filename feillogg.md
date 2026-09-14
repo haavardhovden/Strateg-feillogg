@@ -6,7 +6,7 @@
 | Uke | Batcher | Runder per batch | Gjentatt = ja |
 |---|---|---|---|
 | 36 (1.–7. sept) | S#77.1, S#79 | S#77.1: 2 brief + 1 review. S#79: 1 brief + 0 review | 0 |
-| 37 (8.–14. sept) | S#67.1 | 1 brief, review ikke ferdig | 0 |
+| 37 (8.–14. sept) | S#67.1, S#64.1, S#54.1, overgangsalder | S#67.1: 1 brief. S#64.1: 0 (ingen feedback logget). S#54.1: 1 brief (Jonathan redigerte selv). Overgangsalder: venter | **1** (S#54.1 C3) |
 
 ## Logg
 | Batch | Dato | Stadium | Punkt | Type | Regel | Gjentatt |
@@ -39,8 +39,17 @@
 | S#67.1 | 2026-09-08 | brief | D4 for lik B2/vinneren, vil ha større swing på vanskelig vinkling | craft | Flagget av Claude før sending, beholdt. Ny: begrunn i briefen, større swings på vanskelige vinklinger | nei* |
 | S#67.1 | 2026-09-08 | brief | Label "USP:" ved punktliste | system | Riktig label | nei |
 | S#67.1 | 2026-09-08 | brief | "Kan sendes til produksjon når endringene er gjort, trenger ikke godkjenning fra meg" | ros | – | – |
+| S#64.1 | 2026-09-09 | brief | Ingen feedback logget | – | – | – |
+| S#54.1 | 2026-09-14 | brief | Konseptet kult, original nær KPI | ros | – | – |
+| S#54.1 | 2026-09-14 | brief | A1 badge "sengesett solgt" → "solgt" | craft | Badge sier det bildet viser, kort | nei |
+| S#54.1 | 2026-09-14 | brief | B2 "mykere enn eksen" gir ikke mening. Claude godkjente den, feil | craft | Headline-koblingen åpenbar med én gang | nei |
+| S#54.1 | 2026-09-14 | brief | C3 for lik originalen, som lå under KPI. Roadmap sa urgent, ikke KPI. Claude sa "det er ok", feil | system | Sjekk KPI på video og statisk før iterasjon | **ja** (duplikatregel fra S#77.1 D4, S#67.1 D4) |
+| S#54.1 | 2026-09-14 | brief | Jonathan gjorde endringene selv "siden jeg ønsker at Felix skal begynne" | – | Teller som runde | – |
+| Overgangsalder | 2026-09-14 | brief | Sendt, venter feedback | – | – | – |
 
 S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke kunnskapsgap. Derav: sjekklisten kjøres i egen økt, og hver brief gjennom Claude før Jonathan.
+
+S#54.1 C3: duplikatregelen fantes fra S#77.1 D4 og S#67.1 D4. Tredje gang. Årsaken var at KPI ikke ble sjekket, derav KPI-regelen. Første ekte Gjentatt = ja.
 
 S#67.1 CTA: satt Gjentatt = ja i ettertid. S#79 D4 fikk samme punkt 2. sept, seks dager før.
 
