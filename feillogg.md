@@ -50,7 +50,7 @@
 | Overgangsalder | 2026-09-14 | brief | B2 "sover dårlig" er paraply. Vær konkret: våkner varm, våkner klissvåt | craft | Konkret problem, ikke paraplybegrep | nei |
 | Overgangsalder | 2026-09-14 | brief | B2 tekst under headline lukker ikke gapet headlinen åpner. Rød tråd mangler | craft | Tekst under headline skal lukke headlinens problem mot dream outcome | nei |
 | Overgangsalder | 2026-09-14 | brief | C3 "Den er bra". Bare safe zone, Felix sin jobb | ros | – | – |
-| Overgangsalder | 2026-09-14 | brief | D4 linje to "Prøv kjølende bambussengetøy" closer for tidlig. Problem → close, uten benefit imellom. Jonathan endrer selv | craft | Struktur: problem → hvorfor/benefit → CTA. Aldri close rett etter problemet | nei |
+| Overgangsalder | 2026-09-14 | brief | D4 linje to "Prøv kjølende bambussengetøy" closer for tidlig. Problem → close, uten benefit imellom. Håvard endrer | craft | Struktur: problem → hvorfor/benefit → CTA. Aldri close rett etter problemet | nei |
 | Overgangsalder | 2026-09-14 | brief | Generelt: benefits sier ingenting alene. "Kjølende" → "så du sover uforstyrret uten oppvåkninger". Gå ett steg dypere til dream outcome | craft | Hver benefit knyttes til dream outcome | nei |
 | Overgangsalder | 2026-09-14 | brief | Jonathan dobbeltsjekket med Claude, fikk samme feedback. Ba om ny runde | info | – | – |
 

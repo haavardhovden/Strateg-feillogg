@@ -47,9 +47,20 @@ Kommentarer til Jonathan: kilde til 60 %, kan korte ned C3, originalannonsen len
 - **A1:** "Ingen svette netter" på et så stort problem er disconnect. Dame som våkner klissvåt tror ikke på det. Bro med mekanisme.
 - **B2:** "sover dårlig" er paraply. Konkret: våkner varm / klissvåt. Tekst under headline skal lukke gapet headlinen åpner, så leseren sitter igjen med "derfor blir ikke jeg en av de 6 av 10". Rød tråd headline → tekst → dream outcome.
 - **C3:** "Den er bra." Safe zone er Felix sin jobb.
-- **D4:** Linje to "Prøv kjølende bambussengetøy" closer rett etter problemet. Struktur skal være problem → hvorfor/benefit → CTA. Linje to burde vært CTA-en, med curiosity gap imellom. Jonathan endrer selv, Håvard skal se over.
+- **D4:** Linje to "Prøv kjølende bambussengetøy" closer rett etter problemet. Struktur skal være problem → hvorfor/benefit → CTA. Linje to burde vært CTA-en, med curiosity gap imellom. Håvard endrer alle fire.
 - **Generelt:** Benefit alene betyr ingenting. Gå ett steg dypere: "kjølende" → "sover uforstyrret uten oppvåkninger". USP → dream outcome.
 - Jonathan dobbeltsjekket med Claude, samme feedback. "Ta en ny runde og si fra hvis du er uenig."
 
 ### Spenning mot policy
 Sjekklisten sier unngå "regulerer kroppstemperatur" og "leder varme vekk". Jonathan vil ha mekanisme. Løsning: hverdagsord. "Bambusfiberet puster og trekker fukten vekk fra huden, så du ikke våkner klissvåt." Fiber og fukt, ikke fysikk.
+
+### Jonathans Claude-feedback på B2 (vedlagt i Loomen)
+- Headline svakest: statistikken forteller henne noe hun vet, og snakker om "kvinner" i tredjeperson, ikke om natten hennes. Ingen ny info = ingen stopp. Tall krever synlig kilde i annonsen.
+- Subtekst selger kategorien, ikke Stille. "Kjølende, pustende" kan enhver bambusaktør skrive. "Hjelper stadig flere" er vagt. Mangler mekanisme eller kontrast: "Bomull svetter. Bambus puster."
+- Ingen rød tråd: headline problem, subtekst kategorifordel, CTA payoff. Tre ideer. Headline skal sette opp det subteksten løser.
+- Compliance: overgangsalder + svette + "hjelper" nærmer seg helsepåstand. Hold det på temperatur og komfort, ikke symptomlindring.
+- Badge 70 000+ solgt: behold.
+- CTA "Føl deg uthvilt igjen" er et løfte, svakt som knapp. Flytt opp i subteksten, bruk "Prøv risikofritt" / "Prøv selv i 30 dager" som CTA.
+- Tre retninger: "Hun som stikker beina ut av dyna klokka tre er ikke rar, hun har feil sengetøy" / "Egyptisk bomull ble klam. Dette gjorde ikke det" / "Du sover ikke dårlig fordi du er 48. Du sover dårlig fordi sengetøyet holder på varmen"
+
+Merk: siste retning setter alder mot søvn, Meta-risiko (personlig attributt). Første er trygg og konkret.
