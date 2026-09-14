@@ -21,7 +21,14 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Les headline høyt. Hvis engelsk versjon høres sterkere ut, vurder direkte oversettelse (S#77.1 E5)
 - [ ] Sjekk gamle top spenders for copy-mønstre som har vunnet før du skriver nytt (S#77.1 E5)
 - [ ] Konseptnavn på engelsk (S#77.1)
+- [ ] Mekanismen (bambus) er navngitt i hver annonse, også i testimonial-headlines. Blått sengetøy kan være hva som helst (S#79 A1, B2)
+- [ ] Hver USP sier noe headlinen ikke sa (S#79 C3)
 - [ ] Ingen ord gjentatt på tvers av USP-er, hver linje bærer sitt eget (S#67.1 A1: "naturlig" x3)
+- [ ] CTA passer i en knapp (S#79 D4)
+- [ ] Tekst under headline: kort, eller visualiser (splitscreen, USP-er) (S#79 D4)
+- [ ] Bambus i underlinje eller CTA: "… i bambus", ikke "bambussengetøy" (S#77.1 E5, S#79 C3)
+- [ ] Reviews: lett grammatikkfiks er ok, rekkefølge kan byttes, ordene er kundens. En eller to emoji som i originalen (S#79 A1, B2)
+- [ ] Særskriving: bambussengetøy i ett ord i annonsen (S#79 D4). Husstil "bambus sengesett" i to ord er unntaket
 - [ ] CTA tilfører noe headline og USP ikke gjør: risk reversal, garanti, "prøv risikofritt i X dager". Ellers dropp CTA (S#67.1 A1, B2)
 - [ ] Hvert element gjør en jobb. Tekst under headline får bygge på headline, det er CTA som må tilføre noe nytt. Headline + tekst + CTA skal ikke si det samme tre ganger (S#67.1 A1, B2)
 - [ ] Alle språkkolonner speiler hverandre: norsk, dansk, engelsk. Samme CTA, samme entall/flertall, samme kulepunkter (S#67.1 C3, S#67.1 A1 v2)
@@ -32,6 +39,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Label "USP:" ved punktliste, "Tekst under headline:" ved løpende tekst (S#67.1)
 - [ ] Alle labels like innad i tabellen: "Headline ad:" på alle, ikke "Headline:" på én (S#67.1 D4)
 - [ ] Store bokstaver konsekvent i batchen (ikke title case på én headline uten grunn) (S#67.1 D4)
+- [ ] Inspo-lenker: bildeadresse fra kilden, ikke Notion-fillenke (S#79 A1)
 - [ ] Filnavn følger mønsteret S#[serie]_ITE-[runde]_Variant_[id]_Persona_[navn]_Evergreen_[Yes/No]
 
 ## Visuelt
@@ -40,6 +48,15 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Referansebilde og presis posering i briefen. "Freedom here" gir flere runder når standarden er streng (S#77.1). Unntak: når Håvard bevisst vil ha enkel og ren, si det.
 - [ ] Hud i bildet? Higgsfield kan være streng, ha plan B (S#77.1 E5)
 - [ ] Sjekk sammen med Felix på skjerm (10 min) i stedet for asynkront
+- [ ] Eksportstørrelse 1080×1920, sjekk hver fil (S#79 D4: 1914)
+- [ ] Kontrast og lesbarhet for 40–50 år gamle mødre på mobil (S#79 D4)
+- [ ] Etiketter og mekanisme står i bildet, ikke bare i CTA (S#79 D4)
+- [ ] Referanse til Felix: rå skisse eller Pinterest-inspo + kort Loom. Ikke generer selv (S#79)
+
+## Prosess
+- [ ] Sjekklisten kjøres i egen økt, ikke rett etter skriving (S#79: tre av fire feil var kjente regler)
+- [ ] Brief gjennom Claude før Jonathan (fra S#80)
+- [ ] Ny vinkling: avtal stoppregel med media buyer før lansering, f.eks. 1 000 kr per annonse eller 3 dager (S#79 skrudd av dag 2)
 
 ## Revisjoner
 - [ ] Alle rettelser fra forrige runde er faktisk gjort. Håvard eier det.
