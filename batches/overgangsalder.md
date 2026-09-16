@@ -64,3 +64,14 @@ Sjekklisten sier unngå "regulerer kroppstemperatur" og "leder varme vekk". Jona
 - Tre retninger: "Hun som stikker beina ut av dyna klokka tre er ikke rar, hun har feil sengetøy" / "Egyptisk bomull ble klam. Dette gjorde ikke det" / "Du sover ikke dårlig fordi du er 48. Du sover dårlig fordi sengetøyet holder på varmen"
 
 Jonathan tar ikke headline-punktene 100 %: statistikk-headlinen beholdes ("kul påstand, kul statistikk"), gjøres konkret (våkner varm, ikke sover dårlig). De tre retningene er ikke krav. Kontrast-grepet er verdt å bruke for mekanismen.
+
+### Produksjon, første eksport (16. sept), sjekket før Jonathan
+Batch heter nå S#90. Filnavn: ST_S#90_Variant_X_Menopause_Persona_ST_HotSleeper_Awareness_Problem-aware_Type_NetNew_Evergreen_Yes. Persona satt til HotSleeper, ikke MenopauseSleeper.
+Funnet av Håvard/Claude:
+- D4: begge figurer ser 25 ut, brief sa 40+. Venstre t-skjorte gjennomvåt, grensen på "ikke overdriv venstre".
+- B2 NO CTA "30 dager åpent kjøp", skulle være "Prøv selv i 30 dager". Tre CTA-versjoner i omløp.
+- A1: avsluttende sitattegn på feil linje (begge språk).
+- B2 NO: dobbelt mellomrom.
+- C3: badge fra briefen mangler. Valg: droppes for native-følelse.
+- Dansk: B2 headline "oplever"/"kvinder" ≠ "plages av"; D4 USP "Holder sig friskt" ≠ "Lukter ikke surt"; A1 "hele natten" ≠ "hver natt"; punktum på siste linje; D4 headline "plaget af" lagt til.
+Valg: B2 beholder mørk bakgrunn med rosa. A1 CTA → "Prøv bambus risikofritt i 30 dager" (navn + risk reversal). C3 uten CTA og uten badge.
