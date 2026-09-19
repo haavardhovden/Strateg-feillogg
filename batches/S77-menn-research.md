@@ -49,7 +49,12 @@ Kvinne = kontroll. Mann testes i én.
 - https://forum.kvinneguiden.no/topic/1106693-er-det-sunt-%C3%A5-sove-naken/
 - https://www.page69.no/sove-naken/
 
+## Atria-tall, S#77 "Sov naken. Sov i bambus." (siste 60 dager, 19. sept)
+- Norge: ca. 80 % menn. 25–34 alene ca. 78 kjøp, neste 45–54 ca. 40. Kvinner under 15 i alle segmenter.
+- Danmark: ca. 80 % menn, jevnt fordelt 18–64 (50–60 per segment). Kvinner 45–54 høyest, ca. 25.
+- Hypotesen holder: menn kjøper. Norge er ung, Danmark er jevn.
+
 ## Status 19. sept
 Jonathan har lansert S#95 (5 iterasjoner, By_Jonathan, Persona NakedSleeper, Solution-aware): A1 "Følelsen av bambus mot bar hud er uslåelig" (kvinne), B2 "Sov naken. Sov fri. Sov i bambus." (par), C3 "Av med buksa!" (kvinne), D4 "Sov kliss naken. Sov i bambus." (kvinne, kropp), E5 "Sov naken. Sov i bambus." (par). Ingen mann alene, ingen mannlig hook.
-Håvards menn-batch (3 stk, mann i alle): venter på S#95-data. Par-vinner → mann alene neste. Kvinne-vinner → test hook, ikke bilde. Hvis lansert nå: eget annonsesett.
+Håvards menn-batch sendes 19. sept, mann i alle tre: A1 variant (vinnerens copy), B2 "Bambussengetøy for menn som sover nakne" + CTA "La utstyret puste", C3 Snapchat-selfie. Kun Norge. Par-vinner → mann alene neste. Kvinne-vinner → test hook, ikke bilde. Hvis lansert nå: eget annonsesett.
 Håvards utkast var 6, kuttet til 3: variant (vinnerens copy, mann), "La utstyret puste. Sov naken i bambus.", "Uhygienisk å sove naken? Nei, ikke i bambus". Evt. F6 Snapchat. Strøket: A1 ("100% bambus" rødt), D4 (3 grunner, disconnect), "Guttaboys".
