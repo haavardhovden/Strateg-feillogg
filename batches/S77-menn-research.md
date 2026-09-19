@@ -48,3 +48,8 @@ Kvinne = kontroll. Mann testes i én.
 - https://amp.cbc.ca/news/world/single-men-swap-bed-sheets-4-times-a-year-study-suggests-1.1321335
 - https://forum.kvinneguiden.no/topic/1106693-er-det-sunt-%C3%A5-sove-naken/
 - https://www.page69.no/sove-naken/
+
+## Status 19. sept
+Jonathan har lansert S#95 (5 iterasjoner, By_Jonathan, Persona NakedSleeper, Solution-aware): A1 "Følelsen av bambus mot bar hud er uslåelig" (kvinne), B2 "Sov naken. Sov fri. Sov i bambus." (par), C3 "Av med buksa!" (kvinne), D4 "Sov kliss naken. Sov i bambus." (kvinne, kropp), E5 "Sov naken. Sov i bambus." (par). Ingen mann alene, ingen mannlig hook.
+Håvards menn-batch (3 stk, mann i alle): venter på S#95-data. Par-vinner → mann alene neste. Kvinne-vinner → test hook, ikke bilde. Hvis lansert nå: eget annonsesett.
+Håvards utkast var 6, kuttet til 3: variant (vinnerens copy, mann), "La utstyret puste. Sov naken i bambus.", "Uhygienisk å sove naken? Nei, ikke i bambus". Evt. F6 Snapchat. Strøket: A1 ("100% bambus" rødt), D4 (3 grunner, disconnect), "Guttaboys".
