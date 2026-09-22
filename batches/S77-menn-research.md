@@ -58,3 +58,12 @@ Kvinne = kontroll. Mann testes i én.
 Jonathan har lansert S#95 (5 iterasjoner, By_Jonathan, Persona NakedSleeper, Solution-aware): A1 "Følelsen av bambus mot bar hud er uslåelig" (kvinne), B2 "Sov naken. Sov fri. Sov i bambus." (par), C3 "Av med buksa!" (kvinne), D4 "Sov kliss naken. Sov i bambus." (kvinne, kropp), E5 "Sov naken. Sov i bambus." (par). Ingen mann alene, ingen mannlig hook.
 Håvards menn-batch sendes 19. sept, mann i alle tre: A1 variant (vinnerens copy), B2 "Bambussengetøy for menn som sover nakne" + CTA "La utstyret puste", C3 Snapchat-selfie. Kun Norge. Par-vinner → mann alene neste. Kvinne-vinner → test hook, ikke bilde. Hvis lansert nå: eget annonsesett.
 Håvards utkast var 6, kuttet til 3: variant (vinnerens copy, mann), "La utstyret puste. Sov naken i bambus.", "Uhygienisk å sove naken? Nei, ikke i bambus". Evt. F6 Snapchat. Strøket: A1 ("100% bambus" rødt), D4 (3 grunner, disconnect), "Guttaboys".
+
+## Produksjon S#77.4 (22. sept)
+Jonathan la til D4 selv: "Frie menn sover nakne / i pustende bambussengetøy", USP-er "Mindre fuktig... der nede / Ingen sur lukt som i bomull / Mindre vask av sengetøy", CTA "Over 70.000 solgt". Batchen er fire, ikke tre.
+Sjekket NO/DK:
+- D4-rammene heter Variant:B2 (By:Jonathan), kolliderer med Håvards B2. Rename til D4.
+- DK A1 USP 2 "Intet ildelugtende" ≠ NO "Ingen surt sengetøy". → "Intet surt sengetøj".
+- DK B2 USP 2 "Holder sengetøjet friskt" ≠ NO "Hindrer surt sengetøy". → "Forhindrer surt sengetøj".
+- Automatisk QA flagget NO "Ingen surt sengetøy" som kjønnsfeil. Feil: ordrett fra vinneren S#77 A1, reklamespråk. Ikke rørt.
+- Ellers rent begge språk.
