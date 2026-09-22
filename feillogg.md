@@ -7,7 +7,7 @@
 |---|---|---|---|
 | 36 (1.–7. sept) | S#77.1, S#79 | S#77.1: 2 brief + 1 review. S#79: 1 brief + 0 review | 0 |
 | 38 (15.–21. sept) | S#90, S#87.1, S#77.4 | Sendt, venter | – |
-| 39 (22.–28. sept) | S#86.1 | 1 brief (kun D4) | **1** (D4 rød tråd) |
+| 39 (22.–28. sept) | S#86.1, S#96 | S#86.1: 1 brief (kun D4). S#96: 0 runder | **1** (D4 rød tråd) |
 | 37 (8.–14. sept) | S#67.1, S#64.1, S#54.1, overgangsalder | S#67.1: 1 brief. S#64.1: 0 runder. S#54.1: 1 brief (Jonathan redigerte selv). Overgangsalder: 1 brief, revisjon pågår | **1** (S#54.1 C3) |
 
 ## Logg
@@ -62,6 +62,7 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | S#86.1 | 2026-09-22 | brief | D4 to linjer leses som to headlines, ikke én. Mangler bindeord | craft | Linje to skal bygge synlig på linje én: "derfor" eller lignende | **ja** (rød tråd, overgangsalder B2) |
 | S#86.1 | 2026-09-22 | brief | D4 "40% rabatt": Bonsant viser opp mot 60 %. Stille er billigere i kroner, men taper på prosent i feeden | system | Vis pris, ikke prosent. 40 % er relativt, 770 kr er konkret. Tobias-adsene med spesialpris spendte mest | nei |
 | S#86.1 | 2026-09-22 | brief | "Lag to varianter av D4 hvis usikker, så velger jeg" | info | Tilbud om å levere to og la ham velge når det er raskere | – |
+| S#96 | 2026-09-22 | brief | Sendt rett i produksjon av Jonathan, ingen revisjon | ros | – | – |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
