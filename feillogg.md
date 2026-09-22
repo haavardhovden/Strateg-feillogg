@@ -6,6 +6,8 @@
 | Uke | Batcher | Runder per batch | Gjentatt = ja |
 |---|---|---|---|
 | 36 (1.–7. sept) | S#77.1, S#79 | S#77.1: 2 brief + 1 review. S#79: 1 brief + 0 review | 0 |
+| 38 (15.–21. sept) | S#90, S#87.1, S#77.4 | Sendt, venter | – |
+| 39 (22.–28. sept) | S#86.1 | 1 brief (kun D4) | **1** (D4 rød tråd) |
 | 37 (8.–14. sept) | S#67.1, S#64.1, S#54.1, overgangsalder | S#67.1: 1 brief. S#64.1: 0 runder. S#54.1: 1 brief (Jonathan redigerte selv). Overgangsalder: 1 brief, revisjon pågår | **1** (S#54.1 C3) |
 
 ## Logg
@@ -55,8 +57,15 @@
 | Overgangsalder | 2026-09-14 | brief | Jonathan dobbeltsjekket med Claude, fikk samme feedback. Ba om ny runde | info | – | – |
 
 S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke kunnskapsgap. Derav: sjekklisten kjøres i egen økt, og hver brief gjennom Claude før Jonathan.
+| S#86.1 | 2026-09-22 | brief | A1–C3 fargevarianter "good", E5 "good", lanseres | ros | – | – |
+| S#86.1 | 2026-09-22 | brief | E5 "nå" → "i noen dager". Konkret frist gir mer urgency | craft | Frist i tid, ikke "nå". Ikke rettet, Jonathan lot den stå | nei |
+| S#86.1 | 2026-09-22 | brief | D4 to linjer leses som to headlines, ikke én. Mangler bindeord | craft | Linje to skal bygge synlig på linje én: "derfor" eller lignende | **ja** (rød tråd, overgangsalder B2) |
+| S#86.1 | 2026-09-22 | brief | D4 "40% rabatt": Bonsant viser opp mot 60 %. Stille er billigere i kroner, men taper på prosent i feeden | system | Vis pris, ikke prosent. 40 % er relativt, 770 kr er konkret. Tobias-adsene med spesialpris spendte mest | nei |
+| S#86.1 | 2026-09-22 | brief | "Lag to varianter av D4 hvis usikker, så velger jeg" | info | Tilbud om å levere to og la ham velge når det er raskere | – |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
+
+S#86.1 D4: rød tråd-regelen fra overgangsalder B2 (tekst under headline skal lukke headlinens problem). To linjer uten bindeord er samme feil. Claude sa "årsak og virkning, leseren kobler selv". Feil, Jonathan koblet ikke.
 
 S#54.1 C3: duplikatregelen fantes fra S#77.1 D4 og S#67.1 D4. Tredje gang. Årsaken var at KPI ikke ble sjekket, derav KPI-regelen. Første ekte Gjentatt = ja.
 
