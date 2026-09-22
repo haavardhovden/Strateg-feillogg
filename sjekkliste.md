@@ -88,6 +88,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Kontrast og lesbarhet for 40–50 år gamle mødre på mobil (S#79 D4)
 - [ ] Eksportstørrelse 1080×1920, sjekk hver fil (S#79 D4: 1914)
 - [ ] Sjekk versjoner mot briefen (S#64.1 C3: settene skulle på senga, ikke benken)
+- [ ] Antall rammer i Figma = antall i briefen, og hver variantkode er unik. Jonathan kan ha lagt til egne (S#77.4 D4 het B2)
 - [ ] Sjekk sammen med Felix på skjerm (10 min) i stedet for asynkront
 
 ## Prosess
