@@ -104,4 +104,5 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Samle alle rettelser på hele batchen i én melding til Felix
 - [ ] Alt via Håvard før Jonathan, uansett hvem som sendte til revisjon (S#77.1 B2)
 - [ ] Uklart hva Jonathan vil ha fikset? Én presis avklaring før sending, ikke etter
+- [ ] Automatisk QA feilet, men uenig? Status "Force upload" finnes (Jonathan 22. sept). Én linje begrunnelse per QA-punkt
 - [ ] Usikker mellom to versjoner? Lever begge, la Jonathan velge. Raskere enn en runde (S#86.1)
