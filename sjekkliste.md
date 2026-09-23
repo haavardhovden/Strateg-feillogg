@@ -12,12 +12,13 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Variant eller iterasjon? Si det eksplisitt, per annonse hvis de er ulike (S#77.1, S#67.1, S#64.1)
 - [ ] Hvilken vinner itereres det på, og lå den over eller under KPI, på både video og statisk? Én linje øverst i briefen. Spør "hvordan gikk originalen?" før "klar" (S#67.1, S#54.1 C3)
 - [ ] Sjekk Creative Roadmap: har Jonathan allerede laget denne? "Urgent" i roadmap sier ikke noe om KPI (S#77.1 A1, S#54.1)
+- [ ] Søk i Master Creative Database etter alle annonser på samme vinkel (ikke bare inspo-vinneren). Samme budskap som en taper = bytt (S#96 A1)
 - [ ] Er noen annonse for lik en annen i batchen eller serien? Ny kopilinje eller nytt visuelt alene er ikke nok (S#77.1 D4, S#67.1 D4, S#54.1 C3)
 - [ ] Når Håvard beholder noe som er flagget som likt: én linje i briefen om hvorfor (S#67.1 D4)
 - [ ] Vanskelig vinkling (f.eks. cooling i Norge)? Da større swings, ikke trygge kopier. Mal fra Jonathan på fire annonser: to nær vinneren, to som er enda mer unike (mer top-of-funnel eller mikset budskap som C3) (S#67.1 D4, S#54.1)
 - [ ] Hvert element gjør en jobb: headline, USP/tekst, CTA sier ikke det samme tre ganger. Tekst under headline får bygge på headline, det er CTA som må tilføre noe nytt (S#67.1 A1, B2)
 - [ ] Klarhet-enden eller nysgjerrighet-enden, aldri midten (static-videoen)
-- [ ] Struktur i hver annonse: problem → hvorfor/benefit → CTA. Aldri close rett etter problemet (overgangsalder D4)
+- [ ] Struktur i hver annonse: problem → hvorfor/benefit → CTA. Aldri close rett etter problemet. Gjelder også Snapchat: "Bytt til…" står sist (overgangsalder D4, S#96 D4)
 - [ ] Rød tråd: tekst under headline lukker det problemet headlinen åpner, mot dream outcome (overgangsalder B2)
 - [ ] Ny vinkling: avtal stoppregel med media buyer før lansering, f.eks. 1 000 kr per annonse eller 3 dager (S#79 skrudd av dag 2)
 
@@ -88,6 +89,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Kontrast og lesbarhet for 40–50 år gamle mødre på mobil (S#79 D4)
 - [ ] Eksportstørrelse 1080×1920, sjekk hver fil (S#79 D4: 1914)
 - [ ] Sjekk versjoner mot briefen (S#64.1 C3: settene skulle på senga, ikke benken)
+- [ ] Produktdetaljer stemmer med ekte sengesett: ingen kanter/flapp som produktet ikke har (S#96)
 - [ ] Antall rammer i Figma = antall i briefen, og hver variantkode er unik. Jonathan kan ha lagt til egne (S#77.4 D4 het B2)
 - [ ] Sjekk sammen med Felix på skjerm (10 min) i stedet for asynkront
 

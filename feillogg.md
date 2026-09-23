@@ -7,7 +7,7 @@
 |---|---|---|---|
 | 36 (1.–7. sept) | S#77.1, S#79 | S#77.1: 2 brief + 1 review. S#79: 1 brief + 0 review | 0 |
 | 38 (15.–21. sept) | S#90, S#87.1, S#77.4 | Sendt, venter | – |
-| 39 (22.–28. sept) | S#86.1, S#96 | S#86.1: 1 brief (kun D4). S#96: 0 runder | **1** (D4 rød tråd) |
+| 39 (22.–28. sept) | S#86.1, S#96 | S#86.1: 1 brief (kun D4). S#96: 0 runder på brief, kommentarer i review (ikke sendt i retur) | **1** (D4 rød tråd) |
 | 37 (8.–14. sept) | S#67.1, S#64.1, S#54.1, overgangsalder | S#67.1: 1 brief. S#64.1: 0 runder. S#54.1: 1 brief (Jonathan redigerte selv). Overgangsalder: 1 brief, revisjon pågår | **1** (S#54.1 C3) |
 
 ## Logg
@@ -63,8 +63,17 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | S#86.1 | 2026-09-22 | brief | D4 "40% rabatt": Bonsant viser opp mot 60 %. Stille er billigere i kroner, men taper på prosent i feeden | system | Vis pris, ikke prosent. 40 % er relativt, 770 kr er konkret. Tobias-adsene med spesialpris spendte mest | nei |
 | S#86.1 | 2026-09-22 | brief | "Lag to varianter av D4 hvis usikker, så velger jeg" | info | Tilbud om å levere to og la ham velge når det er raskere | – |
 | S#96 | 2026-09-22 | brief | Sendt rett i produksjon av Jonathan, ingen revisjon | ros | – | – |
+| S#96 | 2026-09-23 | review | Sengesettet har kanter/flapp på siden som ekte produkt ikke har | craft | Sjekk produktdetaljer i bildet mot ekte sengesett | nei |
+| S#96 | 2026-09-23 | review | A1 "for deg med middallergi" = samme budskap som eksisterende annonse ("Har du middallergi, da er bambus for deg") som ikke presterte. USP-er også nesten like | craft | Sjekk budskap og KPI mot alle tidligere annonser på vinkelen, ikke bare inspo-vinneren | **ja** (duplikat, S#77.1 D4, S#67.1 D4, S#54.1 C3) |
+| S#96 | 2026-09-23 | review | A1 forslag: dropp allergi-vinkel (originalen var bare husstøvmidd), eller dream outcome-headline: "våkn uten tett nese, uten rennende øyne" | craft | Dream outcome slår features/benefits | nei |
+| S#96 | 2026-09-23 | review | D4 callout og tekst "veldig bra" | ros | – | – |
+| S#96 | 2026-09-23 | review | D4 "Bytt til antibakterielt bambussengetøy!" står først. Er en CTA, skal til slutt etter at folk er overtalt | craft | Problem → benefit → CTA. Handlingen sist | **ja** (overgangsalder D4) |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
+
+S#96 D4: Claude foreslo selv å sette "Bytt til..." først i bunnteksten. Brøt strukturregelen fra overgangsalder D4. Claude-feil.
+
+S#96 A1: Claude kjente ikke til den eksisterende "Har du middallergi"-annonsen. Sjekket bare mot inspo-vinneren. Regelen skjerpet.
 
 S#86.1 D4: rød tråd-regelen fra overgangsalder B2 (tekst under headline skal lukke headlinens problem). To linjer uten bindeord er samme feil. Claude sa "årsak og virkning, leseren kobler selv". Feil, Jonathan koblet ikke.
 
