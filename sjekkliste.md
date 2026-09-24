@@ -39,7 +39,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Tilbud ulikt mellom NO og DK (prosent, pris, "alt" vs "opptil")? Én linje i briefen om at det er bevisst, med kilde (nettsiden). Ellers feiler automatisk QA (S#86.2)
 - [ ] "Alt er X % rabatt" kun hvis hele sortimentet faktisk er X %. Ellers "opptil" (S#86.2 E5)
 - [ ] Urgency: konkret frist ("i noen dager", "til søndag"), ikke "nå" (S#86.1 E5)
-- [ ] Hver USP sier noe headlinen ikke sa (S#79 C3)
+- [ ] Hver USP sier noe headlinen ikke sa (S#79 C3). Unntak: USP som konkretiserer en følelses-headline ("hater bambus" → "holder husstøvmidd unna") er ok, vinneren S#14 gjør det. Flagg bare når samme ord gjentas ("kjølende" → "kjølig")
 - [ ] Ingen ord gjentatt på tvers av USP-er, hver linje bærer sitt eget (S#67.1 A1: "naturlig" x3)
 - [ ] Samme frase ikke i to annonser i samme batch ("svette og urolige netter" i A1 og B2 → bytt i én)
 - [ ] CTA tilfører noe headline og USP ikke gjør: risk reversal, garanti, "prøv risikofritt i X dager". Ellers dropp CTA (S#79 D4, S#67.1 A1, B2)
