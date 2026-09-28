@@ -1,7 +1,7 @@
 # Kontekst
 
 ## Situasjonen
-Håvard, VekstMedia. Videoeditor på vei til å bli kreativ strateg. Prøveperiode fra ca. 1. sept 2026, framet som 30 dager, Jonathan har sagt det kan ta lengre tid. Halvt editor, halvt strateg i perioden. Ingen rolle å falle tilbake på.
+Håvard, VekstMedia. Videoeditor på vei til å bli kreativ strateg. Prøveperiode fra ca. 1. sept 2026, framet som 30 dager, Jonathan har sagt det kan ta lengre tid. Halvt editor, halvt strateg i perioden. Ingen rolle å falle tilbake på. **Oppdatering 29. sept: fast jobb som kreativ strateg fra 1. okt 2026.**
 
 Jonathan (sjef, kreativ lead) vurderte ekstern strateg, valgte å prøve Håvard. Felix er grafisk designer.
 
