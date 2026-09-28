@@ -69,6 +69,7 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | S#96 | 2026-09-23 | review | D4 callout og tekst "veldig bra" | ros | – | – |
 | S#96 | 2026-09-23 | review | D4 "Bytt til antibakterielt bambussengetøy!" står først. Er en CTA, skal til slutt etter at folk er overtalt | craft | Problem → benefit → CTA. Handlingen sist | **ja** (overgangsalder D4) |
 | S#96 | 2026-09-28 | QA (automatisk) | C3 NO "fuktig og full av midd" – sengetøy er intetkjønn → "fullt". Claude sjekket C3 flere ganger uten å fange det | slurv | Bøyning og samsvar, intetkjønn | **ja** (S#77.1 A1, S#79 B2) |
+| Alle statics | 2026-09-29 | – | Jonathan: "Nå er briefene på statics så bra at du ikke trenger å sende briefen til approval (kun etter før launch). Brief approval gjelder kun for video og UGC fremover." + "Bra jobba" | ros | Prosessendring: statics uten brief-approval | – |
 | S#98 | 2026-09-25 | brief + produksjon | "Good job here guys!" Godkjent uten revisjon (8 annonser, urgency offer NO) | ros | – | – |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.

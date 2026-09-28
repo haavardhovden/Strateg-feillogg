@@ -98,6 +98,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 ## Prosess
 - [ ] Sjekklisten kjøres i egen økt, ikke rett etter skriving (S#79: tre av fire feil var kjente regler)
 - [ ] Brief gjennom Claude før Jonathan (fra S#80)
+- [ ] Fra 29. sept: statics går rett til produksjon uten brief-approval. Jonathan godkjenner kun ferdig design før launch. Video og UGC: brief-approval som før. Claude-sjekken er nå siste kontroll på statiske briefer, kjør den fullt
 
 ## Revisjoner
 - [ ] Alle rettelser fra forrige runde er faktisk gjort. Håvard eier det.
