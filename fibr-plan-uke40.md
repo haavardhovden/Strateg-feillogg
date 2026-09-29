@@ -1,6 +1,6 @@
 # Fibr – plan uke 40 (30. sept–5. okt 2026)
 
-**Prioritet:** Fibr er #1 (over Stille). **Mål:** 30 annonser til Sverige innen søndag 5. okt.
+**Prioritet:** Fibr er #1 (over Stille). **Mål:** 30 annonser til Sverige innen **fredag 2. okt**.
 **Status:** 3–4 i pipeline (V#12.1).
 
 ---
@@ -33,11 +33,12 @@
 
 | Dag | Oppgave | Akkumulert |
 |---|---|---|
-| **Onsdag** | Rett V#12.1 (1). Brief S#13 (2, 3) og S#14 (4, 5). Samme budskap, så ingen ny godkjenning. | 17 |
-| **Torsdag** | Vinnervideoer med nytt visuelt (6). Send batchen med ny tekst (7) tidlig til godkjenning. | 25 |
-| **Fredag–lørdag** | Net new (8) | 30 |
+| **Tirsdag kveld / onsdag morgen** | Rett V#12.1 (1). Send #7 (ny tekst) til godkjenning **med en gang**, fordi den har lengst ledetid. | 4 |
+| **Onsdag** | Brief S#13 (2, 3) og S#14 (4, 5). Samme budskap, så ingen ny godkjenning. | 17 |
+| **Torsdag** | Vinnervideoer med nytt visuelt (6). | 22 |
+| **Fredag** | #7 når den er godkjent, og net new (8) hvis det er tid. | 30 |
 
-**Hvis det blir for lite tid:** Dropp #8 først. Resten er trygge iterasjoner.
+**Hvis det blir for lite tid:** Dropp #8 først (22–25 er realistisk uten den). Resten er trygge iterasjoner.
 
 ---
 
