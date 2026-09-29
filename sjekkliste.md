@@ -94,6 +94,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Produktdetaljer stemmer med ekte sengesett: ingen kanter/flapp som produktet ikke har (S#96)
 - [ ] Antall rammer i Figma = antall i briefen, og hver variantkode er unik. Jonathan kan ha lagt til egne (S#77.4 D4 het B2)
 - [ ] Sjekk sammen med Felix på skjerm (10 min) i stedet for asynkront
+- [ ] Felix er dyktig: ikke flagg manglende designdetaljer (antall varianter, navngiving, layout-presiseringer). Flagg kun det som kan gi feil produkt/påstand (feil farger/produktdetaljer, AI-look) (Håvard 29. sept)
 
 ## Prosess
 - [ ] Sjekklisten kjøres i egen økt, ikke rett etter skriving (S#79: tre av fire feil var kjente regler)
