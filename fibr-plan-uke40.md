@@ -31,14 +31,21 @@
 
 ## Rekkefølge
 
-| Dag | Oppgave | Akkumulert |
-|---|---|---|
-| **Tirsdag kveld / onsdag morgen** | Rett V#12.1 (1). Send #7 (ny tekst) til godkjenning **med en gang**, fordi den har lengst ledetid. | 4 |
-| **Onsdag** | Brief S#13 (2, 3) og S#14 (4, 5). Samme budskap, så ingen ny godkjenning. | 17 |
-| **Torsdag** | Vinnervideoer med nytt visuelt (6). | 22 |
-| **Fredag** | #7 når den er godkjent, og net new (8) hvis det er tid. | 30 |
+Carlo og Felix jobber ikke i helgen. **Alle briefer må være ute innen torsdag morgen**, så de har torsdag og fredag til å produsere.
 
-**Hvis det blir for lite tid:** Dropp #8 først (22–25 er realistisk uten den). Resten er trygge iterasjoner.
+**Fordeling:**
+- **Carlo (video):** #1, #2, #5, #6, #7 = 18 videoer. Det er mye, så sjekk kapasiteten hans i dag.
+- **Felix (statisk):** #3, #4 = 7 statics, pluss statiske net new.
+
+| Når | Oppgave | Briefet |
+|---|---|---|
+| **Tirsdag kveld** | Rett V#12.1 (1) og send til Carlo. Send #7 (ny tekst) til godkjenning. | 4 |
+| **Onsdag formiddag** | Carlo: S#13 C3 → B-roll (2) og S#14 → B-roll (5). Felix: S#13 og S#14 statics (3, 4). | 17 |
+| **Onsdag ettermiddag** | Carlo: vinnervideoer med nytt visuelt (6). | 22 |
+| **Torsdag morgen** | #7 når godkjent. Net new (8) hvis det er kapasitet. | 25–30 |
+| **Torsdag–fredag** | Carlo og Felix produserer. Du kvalitetssjekker løpende. | |
+
+**Hvis det blir for lite tid:** Dropp #8 først. Si fra til Jonathan **onsdag** hvis det ser ut som mindre enn 30.
 
 ---
 
