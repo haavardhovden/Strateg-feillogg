@@ -15,6 +15,8 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Små iterasjoner på en vinner? Sjekk først om det finnes en større iterasjon av originalen. Hvis ikke: prioriter den for å utvide konseptet, i samme task eller ny batch (FB_S#14.1, Jonathan 30. sept)
 - [ ] Søk i Master Creative Database etter alle annonser på samme vinkel (ikke bare inspo-vinneren). Samme budskap som en taper = bytt (S#96 A1)
 - [ ] Er noen annonse for lik en annen i batchen eller serien? Ny kopilinje eller nytt visuelt alene er ikke nok (S#77.1 D4, S#67.1 D4, S#54.1 C3)
+- [ ] Små visuelle iterasjoner (samme tekst): kun ny bakgrunn er for likt. Meta får ingenting å jobbe med, alle egg i én kurv. Endre minst én stor ting per annonse: tekstdesign/layout, helt annet bildeutsnitt eller motiv (FB_S#13.1, Jonathan 30. sept)
+- [ ] Produktnavn sjekkes mot kundens nettside i dag, ikke mot vinneren. Fibr: "Provbox", ikke "Provsmakningsbox" (FB_S#13.1)
 - [ ] Når Håvard beholder noe som er flagget som likt: én linje i briefen om hvorfor (S#67.1 D4)
 - [ ] Vanskelig vinkling (f.eks. cooling i Norge)? Da større swings, ikke trygge kopier. Mal fra Jonathan på fire annonser: to nær vinneren, to som er enda mer unike (mer top-of-funnel eller mikset budskap som C3) (S#67.1 D4, S#54.1)
 - [ ] Hvert element gjør en jobb: headline, USP/tekst, CTA sier ikke det samme tre ganger. Tekst under headline får bygge på headline, det er CTA som må tilføre noe nytt (S#67.1 A1, B2)

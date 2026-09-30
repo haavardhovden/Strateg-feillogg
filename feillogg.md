@@ -76,6 +76,8 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | FB_S#18 | 2026-09-30 | Sondre | NO/DK lanseres ikke ennå (nettsiden ikke klar). Kun Sverige nå | onboarding | Sjekk lanseringsstatus før oversettelse | nei |
 | FB_S#14.1 | 2026-09-30 | review | "Denne er good." Men uten en større iterasjon av originalen bør den prioriteres for å utvide konseptet, ikke bare små iterasjoner. Ny batch senere eller 3 store iterasjoner i samme task | system | Sjekk om originalen har en større iterasjon før små iterasjoner | nei |
 | FB_S#14.1 | 2026-09-30 | Claude-QA | Job code FB_U#14.1 på statisk batch (ad name sier FB_S#14.1). Samme feil som FB_V#12.1 | slurv | Job code matcher format | ja |
+| FB_S#13.1 | 2026-09-30 | review | Fibr har byttet navn fra "Provsmakningsboxen" til "Provboxen". Må brukes i statics og video. Claude flagget "provboxen" først, men trakk det tilbake fordi vinneren brukte det gamle navnet | onboarding | Produktnavn sjekkes mot nettsiden i dag | ja |
+| FB_S#13.1 | 2026-09-30 | review | Små iterasjoner for like: samme tekst, bare ny bakgrunn. Meta får ingenting å jobbe med. Større visuelle endringer: redesign tekst, helt annet bilde. Håvard mistenkte det selv, Claude godkjente "én endring per variant" | craft | Små visuelle iterasjoner trenger minst én stor visuell endring | ja |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
