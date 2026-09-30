@@ -84,7 +84,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Inspo-lenker: bildeadresse fra kilden, ikke Notion-fillenke (S#79 A1)
 - [ ] Filnavn følger mønsteret S#[serie]_ITE-[runde]_Variant_[id]_Persona_[navn]_Evergreen_[Yes/No]
 - [ ] Ad name i Notion inkluderer alle varianter (A1/B2/C3/D4 når Amount = 4)
-- [ ] Job code matcher format: S = statisk, V = video, U = UGC. Sjekk at job code og ad name har samme bokstav (FB_V#12.1 og FB_S#14.1 hadde U)
+- Ikke flagg job code (U/S/V). Den settes automatisk i Notion, Håvard 30. sept
 
 ## Visuelt
 - [ ] "Ser dette ut som AI?" Hud, ansikt, hender, hår. Hvis en ekte fotograf ikke hadde fått til posituren, eller huden ser ut som plast: tilbake til Felix før Jonathan (S#77.1 B2)
