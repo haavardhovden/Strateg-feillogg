@@ -12,7 +12,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Variant eller iterasjon? Si det eksplisitt, per annonse hvis de er ulike (S#77.1, S#67.1, S#64.1)
 - [ ] Hvilken vinner itereres det på, og lå den over eller under KPI, på både video og statisk? Én linje øverst i briefen. Spør "hvordan gikk originalen?" før "klar" (S#67.1, S#54.1 C3)
 - [ ] Sjekk Creative Roadmap: har Jonathan allerede laget denne? "Urgent" i roadmap sier ikke noe om KPI (S#77.1 A1, S#54.1)
-- [ ] Små iterasjoner på en vinner? Sjekk først om det finnes en større iterasjon av originalen. Hvis ikke: prioriter den for å utvide konseptet, i samme task eller ny batch (FB_S#14.1, Jonathan 30. sept)
+- [ ] Iterasjoner: start med større iterasjoner før små. Alternativt mix-batch, eller minst én stor + én liten, så konseptet ekspanderes. Sjekk også hvor mange iterasjoner som allerede går på samme vinner (FB_S#14.1, Jonathan 30. sept)
 - [ ] Søk i Master Creative Database etter alle annonser på samme vinkel (ikke bare inspo-vinneren). Samme budskap som en taper = bytt (S#96 A1)
 - [ ] Er noen annonse for lik en annen i batchen eller serien? Ny kopilinje eller nytt visuelt alene er ikke nok (S#77.1 D4, S#67.1 D4, S#54.1 C3)
 - [ ] Små visuelle iterasjoner (samme tekst): kun ny bakgrunn er for likt. Meta får ingenting å jobbe med, alle egg i én kurv. Endre minst én stor ting per annonse: tekstdesign/layout, helt annet bildeutsnitt eller motiv (FB_S#13.1, Jonathan 30. sept)
