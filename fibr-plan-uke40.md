@@ -72,7 +72,7 @@ Carlo og Felix jobber ikke i helgen. **Alle briefer må være ute innen torsdag 
 4. Er V#12-hooken ok etter v1.4?
 5. ~~Når skal Fibr NO og DK lanseres?~~ Når nettsiden er klar (Sondre 30. sept).
 6. Kan Carlo ta oversettelsene av B-roll text overlay i tillegg til de 18 videoene?
-7. **Tilgang til Fibr i Atria.** Kontoen mangler (Atria har bare Sofanova, Stille ADS, Stille EU og Vidda). Spør Jonathan eller Sondre.
+7. ~~**Tilgang til Fibr i Atria.**~~ Løst 30. sept: Jonathan har lagt til Fibr (AI-synk tar litt tid, standardrapporter funker). Kontoen mangler (Atria har bare Sofanova, Stille ADS, Stille EU og Vidda). Spør Jonathan eller Sondre.
 
 ---
 
@@ -82,6 +82,7 @@ Carlo og Felix jobber ikke i helgen. **Alle briefer må være ute innen torsdag 
 - [ ] Én endring per variant
 - [ ] Ad name inkluderer alle varianter, og job code stemmer
 - [ ] Svensk: naturlig, ingen norske ord
+- [ ] Font (Filson Pro, lenke) og brand-farger/brand guidelines lenket i Notes i alle video-briefer til Carlo
 - [ ] Ingen AI i bilder/video. Ingen negativt ladede vinklinger
 - [ ] Ingen påstander uten dekning (superlativer, helse, "alla …")
 - [ ] Ikke skru på Metas automatiske kreative forbedringer

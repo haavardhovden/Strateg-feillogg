@@ -75,6 +75,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] **Fibr (snabbpolicy v1.4):** ingen AI i bilder eller video. AI-genererte vinnere kan ikke itereres eller oversettes (Sondre 30. sept)
 - [ ] **Fibr:** ingen negativt ladede vinklinger: skyld, anger, "dårlig samvittighet", "förbjudet". Si det positivt (S#18 F6 skrudd av)
 - [ ] **Fibr:** kun Sverige til nettsiden for NO/DK er klar. Ingen NO/DK-oversettelser før Jonathan/Sondre sier fra
+- [ ] **Fibr video:** lenke til font (Filson Pro) og brand guidelines/farger i Notes, også når det står "same font as original" (Jonathan 30. sept)
 
 ## QA-tabell / format
 - [ ] Label "USP:" ved punktliste, "Tekst under headline:" ved løpende tekst (S#67.1)
