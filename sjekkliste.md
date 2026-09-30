@@ -12,6 +12,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Variant eller iterasjon? Si det eksplisitt, per annonse hvis de er ulike (S#77.1, S#67.1, S#64.1)
 - [ ] Hvilken vinner itereres det på, og lå den over eller under KPI, på både video og statisk? Én linje øverst i briefen. Spør "hvordan gikk originalen?" før "klar" (S#67.1, S#54.1 C3)
 - [ ] Sjekk Creative Roadmap: har Jonathan allerede laget denne? "Urgent" i roadmap sier ikke noe om KPI (S#77.1 A1, S#54.1)
+- [ ] Små iterasjoner på en vinner? Sjekk først om det finnes en større iterasjon av originalen. Hvis ikke: prioriter den for å utvide konseptet, i samme task eller ny batch (FB_S#14.1, Jonathan 30. sept)
 - [ ] Søk i Master Creative Database etter alle annonser på samme vinkel (ikke bare inspo-vinneren). Samme budskap som en taper = bytt (S#96 A1)
 - [ ] Er noen annonse for lik en annen i batchen eller serien? Ny kopilinje eller nytt visuelt alene er ikke nok (S#77.1 D4, S#67.1 D4, S#54.1 C3)
 - [ ] Når Håvard beholder noe som er flagget som likt: én linje i briefen om hvorfor (S#67.1 D4)
@@ -81,6 +82,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Inspo-lenker: bildeadresse fra kilden, ikke Notion-fillenke (S#79 A1)
 - [ ] Filnavn følger mønsteret S#[serie]_ITE-[runde]_Variant_[id]_Persona_[navn]_Evergreen_[Yes/No]
 - [ ] Ad name i Notion inkluderer alle varianter (A1/B2/C3/D4 når Amount = 4)
+- [ ] Job code matcher format: S = statisk, V = video, U = UGC. Sjekk at job code og ad name har samme bokstav (FB_V#12.1 og FB_S#14.1 hadde U)
 
 ## Visuelt
 - [ ] "Ser dette ut som AI?" Hud, ansikt, hender, hår. Hvis en ekte fotograf ikke hadde fått til posituren, eller huden ser ut som plast: tilbake til Felix før Jonathan (S#77.1 B2)

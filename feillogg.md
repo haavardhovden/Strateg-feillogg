@@ -74,6 +74,8 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | FB_S#18 | 2026-09-30 | Sondre | Fibr: AI-generert innhold (S#13 C3, S#18 F6) kan ikke brukes eller oversettes | onboarding | Fibr: ingen AI i bilder/video, heller ikke i oversettelser | nei |
 | FB_S#18 | 2026-09-30 | Sondre | F6 "uten dårlig samvittighet": negativt ladet vinkling, annonsen er skrudd av. Claude foreslo selv formuleringen | system | Fibr: ingen negativt ladede vinklinger (skyld, anger, dårlig samvittighet) | nei |
 | FB_S#18 | 2026-09-30 | Sondre | NO/DK lanseres ikke ennå (nettsiden ikke klar). Kun Sverige nå | onboarding | Sjekk lanseringsstatus før oversettelse | nei |
+| FB_S#14.1 | 2026-09-30 | review | "Denne er good." Men uten en større iterasjon av originalen bør den prioriteres for å utvide konseptet, ikke bare små iterasjoner. Ny batch senere eller 3 store iterasjoner i samme task | system | Sjekk om originalen har en større iterasjon før små iterasjoner | nei |
+| FB_S#14.1 | 2026-09-30 | Claude-QA | Job code FB_U#14.1 på statisk batch (ad name sier FB_S#14.1). Samme feil som FB_V#12.1 | slurv | Job code matcher format | ja |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
