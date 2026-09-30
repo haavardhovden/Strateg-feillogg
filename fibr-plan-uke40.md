@@ -9,7 +9,9 @@
 
 - Oversett de beste svenske Fibr-annonsene (siste ukes ROAS 2,86) til norsk og dansk.
 - Raskt volum på noe som allerede har bevist seg.
-- Teller ikke i de 30 til Sverige (NO og DK er egne rader i Notion). **Avklar med Jonathan.**
+- Mye er allerede oversatt til **DK**. Det som gjenstår er hovedsakelig **NO**.
+- B-roll text overlay kan Carlo oversette ved å bytte tekstlagene. Statics går til Felix.
+- NO og DK er egne rader i Notion (uten volum satt), så oversettelsene teller trolig **ikke** i de 30 til SE. **Avklar med Jonathan.**
 
 ---
 
@@ -65,6 +67,9 @@ Carlo og Felix jobber ikke i helgen. **Alle briefer må være ute innen torsdag 
 2. Må ny tekst godkjennes av Fibr etter v1.4, og hvor lang tid tar det? Det avgjør #7 og #8.
 3. B-roll text overlay er video. Krever det brief-approval etter den nye regelen?
 4. Er V#12-hooken ok etter v1.4?
+5. Når skal Fibr NO og DK lanseres? Det er ikke avklart.
+6. Kan Carlo ta oversettelsene av B-roll text overlay i tillegg til de 18 videoene?
+7. **Tilgang til Fibr i Atria.** Kontoen mangler (Atria har bare Sofanova, Stille ADS, Stille EU og Vidda). Spør Jonathan eller Sondre.
 
 ---
 
