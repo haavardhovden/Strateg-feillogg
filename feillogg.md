@@ -71,6 +71,9 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | S#96 | 2026-09-28 | QA (automatisk) | C3 NO "fuktig og full av midd" – sengetøy er intetkjønn → "fullt". Claude sjekket C3 flere ganger uten å fange det | slurv | Bøyning og samsvar, intetkjønn | **ja** (S#77.1 A1, S#79 B2) |
 | Alle statics | 2026-09-29 | – | Jonathan: "Nå er briefene på statics så bra at du ikke trenger å sende briefen til approval (kun etter før launch). Brief approval gjelder kun for video og UGC fremover." + "Bra jobba" | ros | Prosessendring: statics uten brief-approval | – |
 | S#98 | 2026-09-25 | brief + produksjon | "Good job here guys!" Godkjent uten revisjon (8 annonser, urgency offer NO) | ros | – | – |
+| FB_S#18 | 2026-09-30 | Sondre | Fibr: AI-generert innhold (S#13 C3, S#18 F6) kan ikke brukes eller oversettes | onboarding | Fibr: ingen AI i bilder/video, heller ikke i oversettelser | nei |
+| FB_S#18 | 2026-09-30 | Sondre | F6 "uten dårlig samvittighet": negativt ladet vinkling, annonsen er skrudd av. Claude foreslo selv formuleringen | system | Fibr: ingen negativt ladede vinklinger (skyld, anger, dårlig samvittighet) | nei |
+| FB_S#18 | 2026-09-30 | Sondre | NO/DK lanseres ikke ennå (nettsiden ikke klar). Kun Sverige nå | onboarding | Sjekk lanseringsstatus før oversettelse | nei |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 

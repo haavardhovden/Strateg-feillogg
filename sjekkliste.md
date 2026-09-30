@@ -69,6 +69,9 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Kilder: legg lenke i Comments til Jonathan
 - [ ] Returvilkår må stemme før "risikofritt"/"30 dagers åpent kjøp" går på bildet
 - [ ] Rabatt/førpris: mulig Forbrukertilsynet-sjekk, spør (S#64.1)
+- [ ] **Fibr (snabbpolicy v1.4):** ingen AI i bilder eller video. AI-genererte vinnere kan ikke itereres eller oversettes (Sondre 30. sept)
+- [ ] **Fibr:** ingen negativt ladede vinklinger: skyld, anger, "dårlig samvittighet", "förbjudet". Si det positivt (S#18 F6 skrudd av)
+- [ ] **Fibr:** kun Sverige til nettsiden for NO/DK er klar. Ingen NO/DK-oversettelser før Jonathan/Sondre sier fra
 
 ## QA-tabell / format
 - [ ] Label "USP:" ved punktliste, "Tekst under headline:" ved løpende tekst (S#67.1)

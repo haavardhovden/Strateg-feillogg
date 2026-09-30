@@ -5,7 +5,10 @@
 
 ---
 
-## Steg 0 – Oversett SE → NO og DK (i dag / i morgen tidlig)
+## Steg 0 – Oversett SE → NO og DK: PÅ VENT
+
+**30. sept (Sondre):** NO/DK lanseres ikke ennå, nettsiden er ikke klar. Kun Sverige nå. AI-genererte annonser (S#13 C3, S#18 F6) kan ikke brukes. Negativt ladede vinklinger er ikke lov ("uten dårlig samvittighet" skrudd av).
+
 
 - Oversett de beste svenske Fibr-annonsene (siste ukes ROAS 2,86) til norsk og dansk.
 - Raskt volum på noe som allerede har bevist seg.
@@ -63,11 +66,11 @@ Carlo og Felix jobber ikke i helgen. **Alle briefer må være ute innen torsdag 
 
 ## Avklar med Jonathan
 
-1. Teller NO/DK-oversettelser med i de 30?
+1. ~~Teller NO/DK-oversettelser med i de 30?~~ Avklart: NO/DK er på vent.
 2. Må ny tekst godkjennes av Fibr etter v1.4, og hvor lang tid tar det? Det avgjør #7 og #8.
 3. B-roll text overlay er video. Krever det brief-approval etter den nye regelen?
 4. Er V#12-hooken ok etter v1.4?
-5. Når skal Fibr NO og DK lanseres? Det er ikke avklart.
+5. ~~Når skal Fibr NO og DK lanseres?~~ Når nettsiden er klar (Sondre 30. sept).
 6. Kan Carlo ta oversettelsene av B-roll text overlay i tillegg til de 18 videoene?
 7. **Tilgang til Fibr i Atria.** Kontoen mangler (Atria har bare Sofanova, Stille ADS, Stille EU og Vidda). Spør Jonathan eller Sondre.
 
@@ -79,6 +82,7 @@ Carlo og Felix jobber ikke i helgen. **Alle briefer må være ute innen torsdag 
 - [ ] Én endring per variant
 - [ ] Ad name inkluderer alle varianter, og job code stemmer
 - [ ] Svensk: naturlig, ingen norske ord
+- [ ] Ingen AI i bilder/video. Ingen negativt ladede vinklinger
 - [ ] Ingen påstander uten dekning (superlativer, helse, "alla …")
 - [ ] Ikke skru på Metas automatiske kreative forbedringer
 - [ ] Suksesskriterier: ROAS ≥ 4, CPA < 100 kr, hook rate > 25 %, lenke-CTR > 1,0 %
