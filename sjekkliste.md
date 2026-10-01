@@ -104,6 +104,16 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Sjekk sammen med Felix på skjerm (10 min) i stedet for asynkront
 - [ ] Felix er dyktig: ikke flagg manglende designdetaljer (antall varianter, navngiving, layout-presiseringer). Flagg kun det som kan gi feil produkt/påstand (feil farger/produktdetaljer, AI-look) (Håvard 29. sept)
 
+## Kommunikasjon (fokus fra 1. okt)
+- [ ] Første setning sier hva og hvorfor. Detaljer etterpå
+- [ ] Én oppgave per linje. A1/B2/C3 med nøyaktig hva som endres, og hva som IKKE endres
+- [ ] Ingen tolkning nødvendig: hva leveres, når, og hvordan ser "ferdig" ut
+- [ ] Samme ord overalt: produktnavn, variantnavn (A1, ikke "Variation A") og tall like i tittel, tabell og Notes
+- [ ] Lenker til alt de trenger: råmateriale, font, merkede klipp, vinner
+- [ ] Loom: 1) hva og hvorfor, 2) hver variant, 3) oppsummering. Under 3 min
+- [ ] Til Jonathan: status + spørsmål med ja/nei-svar. Ikke "hva tenker du?" når et forslag er mulig
+- [ ] Les briefen som om du var Carlo/Felix: finnes ett eneste spørsmål de kan stille? Svar på det i briefen
+
 ## Prosess
 - [ ] Sjekklisten kjøres i egen økt, ikke rett etter skriving (S#79: tre av fire feil var kjente regler)
 - [ ] Brief gjennom Claude før Jonathan (fra S#80)
