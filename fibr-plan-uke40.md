@@ -1,7 +1,7 @@
 # Fibr – plan uke 40 (30. sept–5. okt 2026)
 
 **Prioritet:** Fibr er #1 (over Stille). **Mål:** 30 annonser til Sverige innen **fredag 2. okt**.
-**Status:** 3–4 i pipeline (V#12.1).
+**Status 1. okt:** 18 i produksjon (12.1, 14.1, 13.1, 23, 21, 22 à 3). Mangler 12, briefes fredag 2. okt: vinnervideo nytt visuelt (3), S#18-vinner stor iterasjon statisk (3), fibermål stor iterasjon statisk (3), ny B-roll ny tekst (3, krever Fibr-godkjenning).
 
 ---
 
