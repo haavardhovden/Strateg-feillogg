@@ -113,6 +113,12 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Loom: 1) hva og hvorfor, 2) hver variant, 3) oppsummering. Under 3 min
 - [ ] Til Jonathan: status + spørsmål med ja/nei-svar. Ikke "hva tenker du?" når et forslag er mulig
 - [ ] Les briefen som om du var Carlo/Felix: finnes ett eneste spørsmål de kan stille? Svar på det i briefen
+- [ ] **Til klient:** start med konklusjonen (hva vi gjør / hva vi trenger), så hvorfor. Maks 3 punkter
+- [ ] **Til klient:** ingen interne ord (ITE, A1/B2, batch, hook rate). Si "nye versjoner av vinneren", "første 3 sekunder"
+- [ ] **Til klient:** ett tydelig spørsmål med frist: "Kan dere godkjenne X innen torsdag?"
+- [ ] **Til klient:** tall med kontekst: "ROAS 4,2, over målet på 3" i stedet for bare tallet
+- [ ] **Til klient:** bekreft avtaler skriftlig etter møter: "Kort oppsummert: vi gjør X, dere sender Y innen Z"
+- [ ] **Til klient:** riktig språk og tone per kunde (Fibr svensk/engelsk, Stille norsk/dansk). Les én gang høyt før sending
 
 ## Prosess
 - [ ] Sjekklisten kjøres i egen økt, ikke rett etter skriving (S#79: tre av fire feil var kjente regler)
