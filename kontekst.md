@@ -1,7 +1,7 @@
 # Kontekst
 
 ## Situasjonen
-Håvard, VekstMedia. Videoeditor på vei til å bli kreativ strateg. Prøveperiode fra ca. 1. sept 2026, framet som 30 dager, Jonathan har sagt det kan ta lengre tid. Halvt editor, halvt strateg i perioden. Ingen rolle å falle tilbake på. **Oppdatering 29. sept: fast jobb som kreativ strateg fra 1. okt 2026.** **Avtale signert 1. okt:** Hovden ENK, 15 000 kr/mnd + 10 % provisjon av byråhonorar (Meta/Snap/TikTok, minus UGC). Kunder: Stille DK/NO, Fibr, Vidda SE/NO, Designletters, iGlow, Luftig (Sofanova når onboardet). Nye kunder avtales muntlig eller skriftlig: bekreft alltid på Slack. 6 mnd binding, 2 mnd oppsigelse.
+Håvard, VekstMedia. Videoeditor på vei til å bli kreativ strateg. Prøveperiode fra ca. 1. sept 2026, framet som 30 dager, Jonathan har sagt det kan ta lengre tid. Halvt editor, halvt strateg i perioden. Ingen rolle å falle tilbake på. **Oppdatering 29. sept: fast jobb som kreativ strateg fra 1. okt 2026.** **Avtale signert 1. okt:** Hovden ENK, 15 000 kr/mnd + 10 % provisjon av byråhonorar (Meta/Snap/TikTok, minus UGC). Kunder: Stille DK/NO, Fibr, Vidda SE/NO, Designletters, iGlow, Luftig (Sofanova når onboardet). Nye kunder avtales muntlig eller skriftlig: bekreft alltid på Slack. 6 mnd binding, 2 mnd oppsigelse. **1. okt (Jonathan):** Stille DK følger NO: salg av nå, til 7. okt. Fra 7. okt nytt tilbud: 40 % rabatt ved kjøp av tre (erstatter 3 for 2). Ingen Stille-produksjon denne uka.
 
 Jonathan (sjef, kreativ lead) vurderte ekstern strateg, valgte å prøve Håvard. Felix er grafisk designer.
 
