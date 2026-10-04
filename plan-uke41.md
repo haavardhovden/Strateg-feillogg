@@ -18,5 +18,13 @@ Totalt ~121 annonser.
 2. iGlow: klar for klientgodkjenning? 350k+ kunder (kun 169 750 dokumentert, trenger Geirs OK). AI-bilde D4 ok?
 3. Miklagaard: land, produkt, tilbud
 4. Fibr UGC: prosess, kreatører, budsjett 2 000 kr
-5. Stille: 3 for 2 eller 40 % ved kjøp av tre fra 7. okt? (motstrid)
+5. ~~Stille-tilbud~~ Avklart: 40 % på sengesett nr. 3 fra 7. okt
 6. Fibr 10 statics: briefe denne uka (ikke flytte)
+
+## Avklart 4. okt (Håvard)
+- iGlow: til intern godkjenning, Jonathan ser på den. 350 000+ kunder (Sondre foreslo, Jonathan: "noen hundre tusen"). Senkes raskt hvis kunden ber om det.
+- Designletters: forslag Tyskland (største marked), hero = bokstavanheng A–Z 18k vergoldet (€45). Batch i dag, ferdig mandag. Trenger tysk språkvask.
+- Miklagaard: senere denne uka.
+- Fibr UGC: 4 ulike vinkler (smak, på farten, fibermål, allergi*) *allergi krever OK fra Jonathan.
+- Fibr 10 statics: produsert uke 41, teller uke 41. Uke 40 endte 21/30, rapporter ærlig.
+- Vidda SE: 5 manglende fra uke 40 → B-roll text overlay av beste NO-vinnere, oversatt.
