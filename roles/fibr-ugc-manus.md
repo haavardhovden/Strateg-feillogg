@@ -2,6 +2,11 @@
 
 **Denne filen går foran alt i andre prosjektfiler som foreslår jeg-form (f.eks. eksempler i scriptwriting-playbooken).**
 
+## Agentinstruks
+Hver gang et Fibr UGC-manus eller en brief skrives, revideres eller sendes inn: kjør hele kontrolltabellen nederst og vis den med PASS/FEIL **før** noe annet (før forslag og omskrivinger). Ett FEIL = ikke klart. Ikke godkjenn før alle rader er PASS.
+
+Prosess: manus skrives → kontrolltabell → intern godkjenning → Adam.
+
 Kilde: Adam (Fibr), WhatsApp 5. okt 2026. "This is VERY important." Gjelder ALLE fremtidige Fibr-videoer.
 
 ## Kjerneregel
