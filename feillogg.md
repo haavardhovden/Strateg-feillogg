@@ -84,6 +84,7 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | IG_S#1 | 2026-10-05 | Jonathan | C3: ekte kvinnes ansikt + vår tekst = ord i munnen på kunde. Bygg om uten ansikt | onboarding | iGlow: ingen ansikt med skrevet tekst | nei |
 | IG_S#1 | 2026-10-05 | Jonathan | Klientens AI-revisjon gir mye støy: endre kun faktiske feil. Innlæringsfase mot kunden | system | – | – |
 | FB_U#3 | 2026-10-05 | klient (Adam) | UGC-manus skriver hva kreatøren tenker/gjør ("jag tycker", "så här kommer jag", "wow"). Må være nøytralt. Gjelder fremtidige videoer | onboarding | Fibr UGC: ingen skriptede meninger | nei |
+| FB_U#3 | 2026-10-05 | klient (Adam) | Presisering: "Not just taste. Don't put any sentences that includes 'jag'." Vi tolket det først som kun smak | onboarding | Fibr UGC: ingen setninger med "jag" | ja |
 | FB_U#3 | 2026-10-05 | klient (Adam) | Inspo-lenken funket ikke | slurv | Test alle lenker før sending | nei |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
