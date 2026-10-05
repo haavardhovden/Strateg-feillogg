@@ -81,6 +81,8 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | IG_S#1 | 2026-10-05 | klient | H8: Trustpilot-anmeldelser/Trustpilot-lignende design. Trustpilot har advart iGlow før. Bruk Judge.me/produktsiden | onboarding | iGlow: kun Judge.me-anmeldelser | nei |
 | IG_S#1 | 2026-10-05 | klient | A1 "Få tillbaka det fransförlängningen tog" antyder reparasjon. Claude flagget samme dag, men etter brief | system | iGlow: ingen reparasjonspåstander | nei |
 | IG_S#1 | 2026-10-05 | klient | D4 AI-bilde: tube/applikator ser feil ut, kan oppfattes som ekte resultat | craft | Produkt skal se ut som ekte produkt | nei |
+| IG_S#1 | 2026-10-05 | Jonathan | C3: ekte kvinnes ansikt + vår tekst = ord i munnen på kunde. Bygg om uten ansikt | onboarding | iGlow: ingen ansikt med skrevet tekst | nei |
+| IG_S#1 | 2026-10-05 | Jonathan | Klientens AI-revisjon gir mye støy: endre kun faktiske feil. Innlæringsfase mot kunden | system | – | – |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
