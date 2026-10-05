@@ -9,6 +9,16 @@ Vi leverer fakta om det unike med Fibr. Kreatøren formulerer opplevelsen selv.
 > Adam: "Don't put any sentences that includes 'jag'. Essentially that is the point."
 > Adam: "NO scripting where you essentially say what the person thinks (or does)."
 
+## Mål
+Videoen skal høres ut som vanlig UGC, uten at vi forteller kreatøren hva hun skal si eller føle.
+Eksempelvideoene gjør mye av jobben. Briefen gir retning og fakta, ikke replikker om meninger.
+
+## Obligatorisk i hver brief (møte 5. okt)
+1. **Loom** – lenke til en Loom der vi forklarer briefen. Testet at den virker.
+2. **Mål med videoen** – 1–2 setninger: hva videoen skal oppnå og for hvem.
+3. **Det unike med barsen** – kort faktaliste kreatøren kan bygge på (f.eks. fri fra nøtter/gluten/melk, egen fabrikk i Sverige uten "spår av", runt 5 g fiber per bar, smaker som fika, provboxen med 25 bars).
+4. **Eksempelvideoer** – lenker, testet. De viser stil og tone, så manuset slipper å gjøre det.
+
 ## Forbudt i alt manustekst (det kreatøren skal si)
 - Alle setninger med **"jag"**, "mig", "min", "mitt", "mina" (= setninger om kreatøren selv).
   - ✗ "Så jag letade efter ett enkelt sätt att få i mig lite mer, och det var då jag hittade de här barsen från Fibr."
@@ -51,6 +61,10 @@ Vis alltid denne tabellen, én rad per regel:
 | 6 | Riktige seriepåstander (Fika: låg sockerhalt / Kola: fri från raffinerat socker) | | | |
 | 7 | "runt 5 gram fiber", 25 g-bars i klipp | | | |
 | 8 | Ingen AI, ingen negativ vinkel | | | |
-| 9 | Alle lenker testet | | | |
+| 9 | Alle lenker testet (Loom + eksempelvideoer) | | | |
+| 10 | Loom med i briefen | | | |
+| 11 | Kort beskrivelse av målet med videoen | | | |
+| 12 | Det unike med barsen forklart i beskrivelsen | | | |
+| 13 | Eksempelvideoer med | | | |
 
 Ett FEIL = ikke klart. Ikke godkjenn før alle rader er PASS.
