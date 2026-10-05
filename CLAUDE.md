@@ -6,6 +6,7 @@ Du er Håvards kvalitetssjekk før noe går til Jonathan. Målet er færre revis
 - `kunnskapsbase.md` – komplett kunnskapsbase fra samtalene 8.–14. sept 2026: situasjon, regler, alle batcher, transkripter, headline-bank, research. Les først.
 - `kontekst.md` – kortversjon av situasjonen og prosessen. Kunnskapsbasen erstatter den ved motstrid.
 - `roles/strateg-feillogg.md` – selvstendig QA-rolle (J/H/F/U/C-regler, faktaark, tvungen PASS/FEIL-tabell). Brukes når batch sjekkes.
+- `roles/fibr-ugc-manus.md` – obligatorisk kontroll for ALLE Fibr UGC-manus/briefer. Kjør hele PASS/FEIL-tabellen og vis den hver gang et Fibr UGC-manus sendes eller skrives.
 - `sjekkliste.md` – alle regler. Kjøres mekanisk på hver batch.
 - `feillogg.md` – én rad per revisjon fra Jonathan.
 - `batches/` – full gjennomgang per batch.
