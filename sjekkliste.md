@@ -77,6 +77,10 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] **Fibr:** kun Sverige til nettsiden for NO/DK er klar. Ingen NO/DK-oversettelser før Jonathan/Sondre sier fra
 - [ ] **Fibr video:** lenke til font (Filson Pro) og brand guidelines/farger i Notes, også når det står "same font as original" (Jonathan 30. sept)
 - [ ] **iGlow:** ingen spesifikke resultatløfter i overskrifter (f.eks. "dag 45", "på 3 uker"). Klienten har bedt om det. Sjekk også USP-er og grafer med uketall
+- [ ] **iGlow:** anmeldelser KUN fra Judge.me / iGlows produktside. Aldri Trustpilot, og ikke design som ligner Trustpilot (grønne stjerner). Trustpilot har advart iGlow tidligere (Geir 5. okt)
+- [ ] **iGlow:** ingen reparasjonspåstander ("få tillbaka", "reparera", "stärka", "växa"). Bruk "längre och fylligare utseende" (Ole 5. okt, A1)
+- [ ] **iGlow:** produktet må se ut som den ekte tuben (lengde/applikator). Ingen AI-bilde som kan leses som ekte resultat (D4)
+- [ ] **iGlow:** varighet = "cirka 3 månader" (opptil 3–5 ved korrekt bruk). Resultater "vanligtvis 3–8 veckor", aldri garantert
 
 ## QA-tabell / format
 - [ ] Label "USP:" ved punktliste, "Tekst under headline:" ved løpende tekst (S#67.1)

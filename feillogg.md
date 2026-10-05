@@ -78,6 +78,9 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | FB_S#14.1 | 2026-09-30 | Slack | For mange iterasjoner på samme vinner hvis 3 til legges inn (B-roll-batchen finnes også). Start med større iterasjoner før små, eller mix. Håvard bytter C3 (lik B2) til stor iterasjon | system | Større før små, eller mix | nei |
 | FB_S#13.1 | 2026-09-30 | review | Fibr har byttet navn fra "Provsmakningsboxen" til "Provboxen". Må brukes i statics og video. Claude flagget "provboxen" først, men trakk det tilbake fordi vinneren brukte det gamle navnet | onboarding | Produktnavn sjekkes mot nettsiden i dag | ja |
 | FB_S#13.1 | 2026-09-30 | review | Små iterasjoner for like: samme tekst, bare ny bakgrunn. Meta får ingenting å jobbe med. Større visuelle endringer: redesign tekst, helt annet bilde. Håvard mistenkte det selv, Claude godkjente "én endring per variant" | craft | Små visuelle iterasjoner trenger minst én stor visuell endring | ja |
+| IG_S#1 | 2026-10-05 | klient | H8: Trustpilot-anmeldelser/Trustpilot-lignende design. Trustpilot har advart iGlow før. Bruk Judge.me/produktsiden | onboarding | iGlow: kun Judge.me-anmeldelser | nei |
+| IG_S#1 | 2026-10-05 | klient | A1 "Få tillbaka det fransförlängningen tog" antyder reparasjon. Claude flagget samme dag, men etter brief | system | iGlow: ingen reparasjonspåstander | nei |
+| IG_S#1 | 2026-10-05 | klient | D4 AI-bilde: tube/applikator ser feil ut, kan oppfattes som ekte resultat | craft | Produkt skal se ut som ekte produkt | nei |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
