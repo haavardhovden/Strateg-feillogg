@@ -1,4 +1,4 @@
-# Fibr UGC-manus – obligatorisk kontroll (Claude-prosjekt)
+# Fibr UGC – obligatorisk manuskontroll
 
 **Denne filen går foran alt i andre prosjektfiler som foreslår jeg-form (f.eks. eksempler i scriptwriting-playbooken).**
 
