@@ -18,7 +18,7 @@ Totalt ~121 annonser.
 2. iGlow: klar for klientgodkjenning? 350k+ kunder (kun 169 750 dokumentert, trenger Geirs OK). AI-bilde D4 ok?
 3. Miklagaard: land, produkt, tilbud
 4. Fibr UGC: prosess, kreatører, budsjett 2 000 kr
-5. ~~Stille-tilbud~~ Avklart: 40 % på sengesett nr. 3 fra 7. okt
+5. ~~Stille-tilbud~~ Avklart 5. okt: 40 % på hele bestillingen ved kjøp av 2+ produkter (alle produkter) fra 7. okt
 6. Fibr 10 statics: briefe denne uka (ikke flytte)
 
 ## Avklart 4. okt (Håvard)
