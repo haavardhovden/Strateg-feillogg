@@ -28,16 +28,16 @@ Eksempelvideoene gjør mye av jobben. Briefen gir retning og fakta, ikke replikk
 4. **Eksempelvideoer** – lenker, testet. De viser stil og tone, så manuset slipper å gjøre det.
 
 ## Forbudt i alt manustekst (det kreatøren skal si)
+Kundens ønske er "mer nøytralt": samme budskap, men som fakta om produktet eller rettet mot "du", ikke som kreatørens opplevelse eller vurdering.
+
 - Alle setninger med **"jag"**, "mig", "min", "mitt", "mina" (= setninger om kreatøren selv).
   - ✗ "Så jag letade efter ett enkelt sätt att få i mig lite mer, och det var då jag hittade de här barsen från Fibr."
     ✓ "Ett enkelt sätt att få i sig lite mer fiber: de här barsen från Fibr."
   - ✗ "…tycker jag är ett stort plus"
-    ✓ "…är ett stort plus" (påstanden står alene, uten "tycker jag")
+    ✓ Fakta i stedet for vurdering, f.eks. "Fikaserien har låg sockerhalt."
   - ✗ "Så här kommer jag…"
     ✓ Beskriv produktet eller situasjonen i stedet, f.eks. "Lätt att ha med i väskan."
   - ✗ "Wow, …" → ✓ stryk "wow", behold resten av setningen
-
-Kundens ønske er "mer nøytralt": samme budskap, men som fakta om produktet eller rettet mot "du", ikke som kreatørens opplevelse.
 - Meninger og reaksjoner vi har skrevet: "wow", "så gott", "min favorit", "jag älskar", "jag blev förvånad".
 - Handlinger/historie i første person: "jag letade", "jag hittade", "jag testade", "jag tar alltid med".
 
