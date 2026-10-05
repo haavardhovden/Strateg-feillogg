@@ -76,6 +76,8 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] **Fibr:** ingen negativt ladede vinklinger: skyld, anger, "dårlig samvittighet", "förbjudet". Si det positivt (S#18 F6 skrudd av)
 - [ ] **Fibr:** kun Sverige til nettsiden for NO/DK er klar. Ingen NO/DK-oversettelser før Jonathan/Sondre sier fra
 - [ ] **Fibr video:** lenke til font (Filson Pro) og brand guidelines/farger i Notes, også når det står "same font as original" (Jonathan 30. sept)
+- [ ] **Fibr UGC (Adam 5. okt, VELDIG viktig):** ikke skriv hva kreatøren tenker/mener/opplever ("jag tycker", "jag gillar", "jag letade", "så här kommer jag", "wow"). Nøytral, faktabasert tekst; la kreatøren beskrive smak med egne ord. Gjelder alle fremtidige manus
+- [ ] **Fibr kola-serien:** "fri från raffinerat socker" er godkjent (Adam 5. okt)
 - [ ] **iGlow:** ingen spesifikke resultatløfter i overskrifter (f.eks. "dag 45", "på 3 uker"). Klienten har bedt om det. Sjekk også USP-er og grafer med uketall
 - [ ] **iGlow:** anmeldelser KUN fra iGlows produktside (Judge.me), nær originalordlyd. Gullstjerner, aldri Trustpilot-grønt/logo (Jonathan + Geir 5. okt)
 - [ ] **iGlow:** ingen ekte kreatør-/kundeansikt med tekst vi har skrevet ("putter ord i munnen"). Snapchat-format ok, men produkt/vipper uten identifiserbart ansikt (C3, 5. okt)
