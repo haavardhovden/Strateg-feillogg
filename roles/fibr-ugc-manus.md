@@ -5,16 +5,17 @@
 ## Agentinstruks
 Hver gang et Fibr UGC-manus eller en brief skrives, revideres eller sendes inn: kjør hele kontrolltabellen nederst og vis den med PASS/FEIL **før** noe annet (før forslag og omskrivinger). Ett FEIL = ikke klart. Ikke godkjenn før alle rader er PASS.
 
-Prosess: manus skrives → kontrolltabell → intern godkjenning → Adam.
+Prosess: manus skrives → kontrolltabell → intern godkjenning → kunde.
 
-Kilde: Adam (Fibr), WhatsApp 5. okt 2026. "This is VERY important." Gjelder ALLE fremtidige Fibr-videoer.
+Kilde: kundekrav fra Fibr, 5. okt 2026. Høyt prioritert. Gjelder ALLE fremtidige Fibr-videoer.
 
 ## Kjerneregel
 Vi skriver aldri hva kreatøren tenker, mener, føler eller gjør. Kreatøren gir sin egen mening med egne ord.
 Vi leverer fakta om det unike med Fibr. Kreatøren formulerer opplevelsen selv.
 
-> Adam: "Don't put any sentences that includes 'jag'. Essentially that is the point."
-> Adam: "NO scripting where you essentially say what the person thinks (or does)."
+Kundens krav:
+- Ingen setninger med "jag" i manus.
+- Ingen manus som sier hva kreatøren tenker eller gjør.
 
 ## Mål
 Videoen skal høres ut som vanlig UGC, uten at vi forteller kreatøren hva hun skal si eller føle.
@@ -44,14 +45,14 @@ Eksempelvideoene gjør mye av jobben. Briefen gir retning og fakta, ikke replikk
 | Smak/mening = kreatørens egne ord | Regi: *"Smaka och beskriv smaken med dina egna ord."* Vi skriver aldri selve smaksbeskrivelsen |
 
 Regi-notater (hva som vises i klippet) er OK i notes, men ikke som replikk i første person.
-Om kreatøren selv kan si "jag" spontant er ikke bekreftet av Adam. Ikke skriv det inn, ikke be om det.
+Om kreatøren selv kan si "jag" spontant er ikke avklart med kunden. Ikke skriv det inn, ikke be om det.
 
-## Andre Fibr-regler (Adam + compliance v1.4)
+## Andre Fibr-regler (kundekrav + compliance v1.4)
 - Ingen AI-genererte bilder/klipp. Ingen negative vinkler.
 - Kun forhåndsgodkjente claims (compliance v1.4). Ikke helse, energi, metthet, mage, søtsug.
 - 25 g-bars: "runt 5 gram fiber". Bruk kun 25 g-bars i klipp, ikke 40 g fikabars.
-- Fika-serien: "låg sockerhalt". Kola-serien: "fri från raffinerat socker" (Adam 5. okt, samme ordlyd overalt, også i Notion). Frukt-serien: "utan tillsatt socker" (fibr.se).
-- Ingen navngitte smaker sammen med provboxen, innholdet roterer (Jonathan).
+- Fika-serien: "låg sockerhalt". Kola-serien: "fri från raffinerat socker" (samme ordlyd overalt, også i Notion). Frukt-serien: "utan tillsatt socker" (fibr.se).
+- Ingen navngitte smaker sammen med provboxen, innholdet roterer.
 - Aldri "alla".
 - Ingen ernæringsfysiolog brukt som autoritet.
 - CTA: "provboxen" (25 bars).
