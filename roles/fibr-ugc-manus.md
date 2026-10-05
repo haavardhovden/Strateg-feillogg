@@ -1,0 +1,56 @@
+# Fibr UGC-manus – obligatorisk kontroll (Claude-prosjekt)
+
+Kilde: Adam (Fibr), WhatsApp 5. okt 2026. "This is VERY important." Gjelder ALLE fremtidige Fibr-videoer.
+
+## Kjerneregel
+Vi skriver aldri hva kreatøren tenker, mener, føler eller gjør. Kreatøren gir sin egen mening med egne ord.
+Vi leverer fakta om det unike med Fibr. Kreatøren formulerer opplevelsen selv.
+
+> Adam: "Don't put any sentences that includes 'jag'. Essentially that is the point."
+> Adam: "NO scripting where you essentially say what the person thinks (or does)."
+
+## Forbudt i alt manustekst (det kreatøren skal si)
+- Alle setninger med **"jag"**, "mig", "min", "mitt", "mina" (= setninger om kreatøren selv).
+  - ✗ "Så jag letade efter ett enkelt sätt att få i mig lite mer, och det var då jag hittade de här barsen från Fibr."
+  - ✗ "…tycker jag är ett stort plus"
+  - ✗ "Så här kommer jag…"
+- Meninger og reaksjoner vi har skrevet: "wow", "så gott", "min favorit", "jag älskar", "jag blev förvånad".
+- Handlinger/historie i første person: "jag letade", "jag hittade", "jag testade", "jag tar alltid med".
+
+## Slik skriver vi i stedet
+| Grep | Eksempel |
+|---|---|
+| "du" i stedet for "jag" | "Vill du få i dig lite mer fiber?" |
+| Produktet som subjekt | "De här barsen har runt 5 gram fiber." |
+| Fakta om det unike | "Bakas i egen fabrik i Sverige, där nötter aldrig kommer in." |
+| Spørsmål | "Vet du hur mycket fiber du borde få i dig om dagen?" |
+| Smak/mening = kreatørens egne ord | Regi: *"Smaka och beskriv smaken med dina egna ord."* Vi skriver aldri selve smaksbeskrivelsen |
+
+Regi-notater (hva som vises i klippet) er OK i notes, men ikke som replikk i første person.
+Om kreatøren selv kan si "jag" spontant er ikke bekreftet av Adam. Ikke skriv det inn, ikke be om det.
+
+## Andre Fibr-regler (Adam + compliance v1.4)
+- Ingen AI-genererte bilder/klipp. Ingen negative vinkler.
+- Kun forhåndsgodkjente claims (compliance v1.4). Ikke helse, energi, metthet, mage, søtsug.
+- 25 g-bars: "runt 5 gram fiber". Bruk kun 25 g-bars i klipp, ikke 40 g fikabars.
+- Fika-serien: "låg sockerhalt". Kola-serien: "fri från raffinerat socker" (Adam 5. okt).
+- CTA: "provboxen" (25 bars).
+- Test alle lenker (inspo-video o.l.) før sending.
+
+## Kontroll – kjøres på HVERT manus før det sendes (internt eller til klient)
+Søk i hele manuset etter: `jag`, `mig`, `min`, `mitt`, `mina`, `wow`, `tycker`, `älskar`, `favorit`.
+Vis alltid denne tabellen, én rad per regel:
+
+| # | Regel | PASS/FEIL | Linje som feiler | Forslag |
+|---|---|---|---|---|
+| 1 | Ingen setninger med jag/mig/min | | | |
+| 2 | Ingen skriptede meninger/reaksjoner (wow, tycker, älskar) | | | |
+| 3 | Ingen skriptede handlinger i første person (letade, hittade, testade) | | | |
+| 4 | Smak/mening overlatt til kreatøren med egne ord | | | |
+| 5 | Kun godkjente claims, ingen helse/energi/metthet | | | |
+| 6 | Riktige seriepåstander (Fika: låg sockerhalt / Kola: fri från raffinerat socker) | | | |
+| 7 | "runt 5 gram fiber", 25 g-bars i klipp | | | |
+| 8 | Ingen AI, ingen negativ vinkel | | | |
+| 9 | Alle lenker testet | | | |
+
+Ett FEIL = ikke klart. Ikke godkjenn før alle rader er PASS.
