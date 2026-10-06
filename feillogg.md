@@ -105,3 +105,4 @@ S#67.1 CTA: satt Gjentatt = ja i ettertid. S#79 D4 fikk samme punkt 2. sept, sek
 | Batch | Stadium | Punkt | Type |
 |---|---|---|---|
 | statisk batch før S#77 | review | slurvefeil | slurv |
+| DL_S#1 | 2026-10-06 | klient (jj) | Bokstavene ser ikke ut som ekte produkt: bail-plassering, bokstavform, størrelse, bail-form. Hjerter OK | system | DL: produktkontroll per bokstav × størrelse | ja |
