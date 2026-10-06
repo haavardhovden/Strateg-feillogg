@@ -69,3 +69,5 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 - Slurv ned til null, resten er læring
 - Jonathan opplever at batcher via Håvard kommer renere enn uten
 - Fulltid kreativ strateg
+
+**UGC-produkter (Sondre 6. okt):** 100 %-rabattkode for å sende produkter til UGC-kreatører (Fibr og Stille). Ligger i Notion under hver klient → «Product & shipping». Ikke del koden utenfor kreatørbestillinger.
