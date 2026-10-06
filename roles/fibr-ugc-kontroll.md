@@ -64,6 +64,12 @@ Om kreatøren selv kan si "jag" spontant er ikke avklart med kunden. Ikke skriv 
 - CTA: "provboxen" (25 bars).
 - Test alle lenker (inspo-video o.l.) før sending.
 
+## Forbudte klipp (kunden har avvist)
+Klipp kunden har sagt nei til skal aldri brukes igjen, verken i nye videoer eller aktive annonser. Fyll inn filnavn/beskrivelse + dato + hvem.
+| Klipp | Avvist av | Dato | Brukt i aktive annonser? |
+|---|---|---|---|
+| [klippet Sondre flagget i FB_V#24, 6. okt] | Fibr (ifølge Sondre) | tidligere | Ja – må sjekkes |
+
 ## Kontroll – kjøres på HVERT manus før det sendes (internt eller til klient)
 Søk i hele manuset etter hele ord: `jag`, `mig`, `min`, `mitt`, `mina`, `wow`, `tycker`, `älskar`, `min favorit`, `alla`. ("din favorit" er OK; "minst" er ikke treff på "min".)
 Vis alltid denne tabellen, én rad per regel:
