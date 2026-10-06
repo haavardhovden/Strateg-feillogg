@@ -127,8 +127,11 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] **Til klient:** tall med kontekst: "ROAS 4,2, over målet på 3" i stedet for bare tallet
 - [ ] **Til klient:** bekreft avtaler skriftlig etter møter: "Kort oppsummert: vi gjør X, dere sender Y innen Z"
 - [ ] **Til klient:** riktig språk og tone per kunde (Fibr svensk/engelsk, Stille norsk/dansk). Les én gang høyt før sending
+- [ ] **Til klient, strategi/onboarding (Sondre 6. okt):** kunden skal ikke sitte igjen med spørsmål. Svar på: hva skjer nå, hva skjer videre, hvorfor vi gjør det slik, hvorfor akkurat disse markedene, hvordan andre markeder håndteres. Enkle ord (kunden kan ikke markedsføring). Ikke lov ting som ikke er avklart internt
+- [ ] **Til klient:** jeg har ansvar for å sende batcher til klientgodkjenning for alle mine kunder (Sondre 6. okt). Engelsk master, oversett etter godkjenning, og si det i meldingen
 
 ## Prosess
+- [ ] Etter hvert møte med Jonathan/Sondre/kunde: skriv 3 linjer i kontekst.md (hva vi bestemte, hvorfor, hva som skjer videre). DL 6. okt: visste ikke hvorfor DE/FR/IT/BE-LUX var valgt
 - [ ] Sjekklisten kjøres i egen økt, ikke rett etter skriving (S#79: tre av fire feil var kjente regler)
 - [ ] Brief gjennom Claude før Jonathan (fra S#80)
 - [ ] Fra 29. sept: statics går rett til produksjon uten brief-approval. Jonathan godkjenner kun ferdig design før launch. Video og UGC: brief-approval som før. Claude-sjekken er nå siste kontroll på statiske briefer, kjør den fullt
