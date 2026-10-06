@@ -86,6 +86,7 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | FB_U#3 | 2026-10-05 | klient (Adam) | UGC-manus skriver hva kreatøren tenker/gjør ("jag tycker", "så här kommer jag", "wow"). Må være nøytralt. Gjelder fremtidige videoer | onboarding | Fibr UGC: ingen skriptede meninger | nei |
 | FB_U#3 | 2026-10-05 | klient (Adam) | Presisering: "Not just taste. Don't put any sentences that includes 'jag'." Vi tolket det først som kun smak | onboarding | Fibr UGC: ingen setninger med "jag" | ja |
 | FB_U#3 | 2026-10-05 | klient (Adam) | Inspo-lenken funket ikke | slurv | Test alle lenker før sending | nei |
+| DL_S#1 | 2026-10-06 | klient (jj) | Bokstavene ser ikke ut som ekte produkt: bail-plassering, bokstavform, størrelse, bail-form. Hjerter OK | system | DL: produktkontroll per bokstav × størrelse | ja |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
@@ -105,4 +106,3 @@ S#67.1 CTA: satt Gjentatt = ja i ettertid. S#79 D4 fikk samme punkt 2. sept, sek
 | Batch | Stadium | Punkt | Type |
 |---|---|---|---|
 | statisk batch før S#77 | review | slurvefeil | slurv |
-| DL_S#1 | 2026-10-06 | klient (jj) | Bokstavene ser ikke ut som ekte produkt: bail-plassering, bokstavform, størrelse, bail-form. Hjerter OK | system | DL: produktkontroll per bokstav × størrelse | ja |
