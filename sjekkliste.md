@@ -97,6 +97,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - Ikke flagg job code (U/S/V). Den settes automatisk i Notion, Håvard 30. sept
 
 ## Visuelt
+- [ ] Iterasjon på vinner: vinneren kan inneholde klipp/påstander kunden har avvist ETTER at den ble laget. Sjekk kildeklippene mot nei-listen, ikke anta at vinneren er godkjent (Fibr V#24, 6. okt)
 - [ ] Alle kunder: sjekk klipp/bilder mot listen over forbudte klipp før brief og før approval. Ingen slik liste = spør Sondre (Fibr V#24, 6. okt: avvist klipp brukt igjen, også i aktive annonser)
 - [ ] Figma før eksport: unik variantkode per frame (to A1 = én overskrives ved eksport). Slett versjoner som ikke skal ut (IG_S#1 6. okt)
 - [ ] Ingen elementer kuttet av kanter (doodles, emoji), ingen løse streker/rammer igjen fra layout (IG_S#1 C3/D4)
