@@ -5,6 +5,8 @@ Jonathan (kommentar på batchen): «Disse annonsene ble dritbra.» Behold derfor
 ## Nytt tilbud (fra 7. okt 2026)
 40 % på HELE bestillingen når kunden kjøper 2 eller flere produkter, uansett hvilke.
 Eksempel: sengesett + sovemaske = 40 % på begge.
+Ordrett fra Sondre (Slack, 6. okt): «Det betyr at om man legger 2 produkter får man 40%. Legger jeg 1 sovemaske, og 1 sengesett, får jeg 40% rabatt. Så, så lenge jeg har 2 eller fler produkter i handlekurven, uavhengig av hvilke produkter det er, så får man 40% rabatt.»
+
 Erstatter «3 for 2», «gratis sengesett» og «40 % på nr. 3». Ingen spor av gamle tilbud skal stå igjen.
 
 ## Urgency
