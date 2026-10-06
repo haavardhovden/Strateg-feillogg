@@ -71,3 +71,5 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 - Fulltid kreativ strateg
 
 **UGC-produkter (Sondre 6. okt):** 100 %-rabattkode for å sende produkter til UGC-kreatører (Fibr og Stille). Ligger i Notion under hver klient → «Product & shipping». Ikke del koden utenfor kreatørbestillinger.
+
+**Stille 7. okt (Sondre):** Alle ads som var aktive 30. sept og som IKKE viser salget i annonsen skal skrus på igjen. Ads med gammelt tilbud i bildet bygges om (S#101: S#85, S#84, S#64, S#86.2). Vinnere fra NO tas ofte til DK.
