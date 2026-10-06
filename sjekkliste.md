@@ -96,6 +96,9 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - Ikke flagg job code (U/S/V). Den settes automatisk i Notion, Håvard 30. sept
 
 ## Visuelt
+- [ ] Figma før eksport: unik variantkode per frame (to A1 = én overskrives ved eksport). Slett versjoner som ikke skal ut (IG_S#1 6. okt)
+- [ ] Ingen elementer kuttet av kanter (doodles, emoji), ingen løse streker/rammer igjen fra layout (IG_S#1 C3/D4)
+- [ ] Typografi per språk: SE/DK/DE ” ” (ikke « »), NO « ». Tankestrek – i intervaller (3–5, 3–8), konsekvent i hele annonsen
 - [ ] **Design Letters (klient 6. okt):** hver bokstav × størrelse sjekkes mot ekte produktbilde: form, størrelse, bail-plassering, bail-form (skarp). Bruk helst ekte produktfoto, ikke AI. Se roles/dl-produktkontroll.md
 - [ ] Alle kunder: produktet i bildet skal se ut som det ekte produktet (iGlow-tube 5. okt, DL-bokstaver 6. okt). Sammenlign side om side med produktsiden før levering
 - [ ] "Ser dette ut som AI?" Hud, ansikt, hender, hår. Hvis en ekte fotograf ikke hadde fått til posituren, eller huden ser ut som plast: tilbake til Felix før Jonathan (S#77.1 B2)
