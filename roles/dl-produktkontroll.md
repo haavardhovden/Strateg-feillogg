@@ -26,6 +26,11 @@ Hver bokstav i hver annonse sjekkes mot ekte produktbilde FØR levering. Helst: 
 - S: https://cdn.shopify.com/s/files/1/0532/1546/1547/products/6636476203184_91_39620240933040.jpg?v=1738246686
 - Alle bokstaver og størrelser: designletters.dk/products/personlig-halskaede-med-bogstav-10mm-a-z-guld (16 mm og 30 mm har egne sider)
 
+## Klientfeedback runde 2 (jj, 7. okt)
+- C3: bøylen (bail) er for rund.
+- D4: bøylen er for lang på alle bokstavene.
+- F6: den røde ringen er helt rød, ikke gull bak den røde emaljen.
+
 ## DL_S#1 – bokstaver som må sjekkes
 | Annonse | Bokstaver | Status |
 |---|---|---|
