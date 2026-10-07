@@ -141,6 +141,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] **Til klient:** jeg har ansvar for å sende batcher til klientgodkjenning for alle mine kunder (Sondre 6. okt). Engelsk master, oversett etter godkjenning, og si det i meldingen
 
 ## Prosess
+- [ ] Sjekk alle klientkanaler (Slack/WhatsApp) ved start av hver blokk. Klientspørsmål besvares innen 30 min, minst med «Ser på det, kommer tilbake innen X» (DL «ETA?» 7. okt, Sondre svarte)
 - [ ] Etter hvert møte med Jonathan/Sondre/kunde: skriv 3 linjer i kontekst.md (hva vi bestemte, hvorfor, hva som skjer videre). DL 6. okt: visste ikke hvorfor DE/FR/IT/BE-LUX var valgt
 - [ ] Sjekklisten kjøres i egen økt, ikke rett etter skriving (S#79: tre av fire feil var kjente regler)
 - [ ] Brief gjennom Claude før Jonathan (fra S#80)
