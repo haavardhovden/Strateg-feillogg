@@ -138,6 +138,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] **Til klient:** tall med kontekst: "ROAS 4,2, over målet på 3" i stedet for bare tallet
 - [ ] **Til klient:** bekreft avtaler skriftlig etter møter: "Kort oppsummert: vi gjør X, dere sender Y innen Z"
 - [ ] **Til klient:** riktig språk og tone per kunde (Fibr svensk/engelsk, Stille norsk/dansk). Les én gang høyt før sending
+- [ ] **Til klient:** ikke start hver melding med «Hi». I en pågående chat: svar direkte. «Hi» bare i første melding etter en pause (Sondre 7. okt: for mye «Hi» virker AI-generert)
 - [ ] **Til klient, strategi/onboarding (Sondre 6. okt):** kunden skal ikke sitte igjen med spørsmål. Svar på: hva skjer nå, hva skjer videre, hvorfor vi gjør det slik, hvorfor akkurat disse markedene, hvordan andre markeder håndteres. Enkle ord (kunden kan ikke markedsføring). Ikke lov ting som ikke er avklart internt
 - [ ] **Til klient:** jeg har ansvar for å sende batcher til klientgodkjenning for alle mine kunder (Sondre 6. okt). Engelsk master, oversett etter godkjenning, og si det i meldingen
 
