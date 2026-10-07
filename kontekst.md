@@ -77,3 +77,5 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 **Design Letters markedsplan (Sondre til jj, 7. okt):** Test i de 4 markedene som historisk har prestert best. Sterkeste blir hovedmarked for testing av nye vinkler/ads. Vinnere lanseres i øvrige markeder (inkl. Danmark) som skaleringskampanjer: kun beviste ads utenfor testmarkedet. F6-ringen er fra kundens nettside (ikke AI), jj: «ok».
 
 **Vidda (Sondre 7. okt):** Alle Vidda-ads pauset ut oktober, til Black Month. CPC 5,2 kr er ok, men ROAS svært dårlig → problemet ligger etter klikket, trolig utsolgte farger. Vent med nye Vidda-batcher til farger er tilbake på lager. Black Month-batch er neste Vidda-leveranse.
+
+**Provisjon (Sondre, Slack 30. sept):** «selv om Jonathan briefer en batch her og der, men du fortsatt har ansvaret for klienten, får du fremdeles full provisjon». Mine klienter 30. sept: Stille DK+NO, Fibr, Vidda SE+NO, Designletters, iGlow, Luftig. Sofanova når onboardet. 7. okt: Jonathan støtter Stille static (format-diversitet, tidligere vinnervinkler) så Håvard kan ta Stille UGC-manus.
