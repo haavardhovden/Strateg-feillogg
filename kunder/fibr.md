@@ -14,3 +14,7 @@
 - UGC: ingen «jag», ingen skriptede meninger (5. okt)
 - Primærtekst skal støtte samme vinkel som bildet (6. okt)
 - Test lenker før sending (5. okt)
+
+## Godkjenning
+- Adams «Sure» = godkjent (Sondre 7. okt). Godkjente batcher settes til **Ready for launch**.
+- Fibrs content-mappe er ikke dobbeltsjekket av kunden: ting kan vise seg å ikke være lov underveis. Sjekk mot nei-listen før bruk.
