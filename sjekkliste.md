@@ -98,6 +98,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - Ikke flagg job code (U/S/V). Den settes automatisk i Notion, Håvard 30. sept
 
 ## Visuelt
+- [ ] **Produktnære annonser (smykker, tube, bars):** bruk kundens ekte produktbilder/content library + Photoshop først. AI kun for miljø/bakgrunn. Hvis AI-produkt ikke er riktig etter 1 forsøk: lever versjon med ekte produktbilde i stedet (Sondre 7. okt etter DL_S#1, 3+ runder på bokstaver)
 - [ ] Iterasjon på vinner: vinneren kan inneholde klipp/påstander kunden har avvist ETTER at den ble laget. Sjekk kildeklippene mot nei-listen, ikke anta at vinneren er godkjent (Fibr V#24, 6. okt)
 - [ ] Alle kunder: sjekk klipp/bilder mot listen over forbudte klipp før brief og før approval. Ingen slik liste = spør Sondre (Fibr V#24, 6. okt: avvist klipp brukt igjen, også i aktive annonser)
 - [ ] Figma før eksport: unik variantkode per frame (to A1 = én overskrives ved eksport). Slett versjoner som ikke skal ut (IG_S#1 6. okt)

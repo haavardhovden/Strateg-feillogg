@@ -87,6 +87,7 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | FB_U#3 | 2026-10-05 | klient (Adam) | Presisering: "Not just taste. Don't put any sentences that includes 'jag'." Vi tolket det først som kun smak | onboarding | Fibr UGC: ingen setninger med "jag" | ja |
 | FB_U#3 | 2026-10-05 | klient (Adam) | Inspo-lenken funket ikke | slurv | Test alle lenker før sending | nei |
 | DL_S#1 | 2026-10-06 | klient (jj) | Bokstavene ser ikke ut som ekte produkt: bail-plassering, bokstavform, størrelse, bail-form. Hjerter OK | system | DL: produktkontroll per bokstav × størrelse | ja |
+| DL_S#1 | 2026-10-07 | intern (Sondre) | 3+ runder frem og tilbake på AI-genererte bokstaver. Klient misfornøyd, forsinket andre leveranser | system | Ekte produktbilder før AI på produktnære annonser | ja |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
