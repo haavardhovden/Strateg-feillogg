@@ -75,3 +75,5 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 **Stille 7. okt (Sondre):** Alle ads som var aktive 30. sept og som IKKE viser salget i annonsen skal skrus på igjen. Ads med gammelt tilbud i bildet bygges om (S#101: S#85, S#84, S#64, S#86.2). Vinnere fra NO tas ofte til DK.
 
 **Design Letters markedsplan (Sondre til jj, 7. okt):** Test i de 4 markedene som historisk har prestert best. Sterkeste blir hovedmarked for testing av nye vinkler/ads. Vinnere lanseres i øvrige markeder (inkl. Danmark) som skaleringskampanjer: kun beviste ads utenfor testmarkedet. F6-ringen er fra kundens nettside (ikke AI), jj: «ok».
+
+**Vidda (Sondre 7. okt):** Alle Vidda-ads pauset ut oktober, til Black Month. CPC 5,2 kr er ok, men ROAS svært dårlig → problemet ligger etter klikket, trolig utsolgte farger. Vent med nye Vidda-batcher til farger er tilbake på lager. Black Month-batch er neste Vidda-leveranse.
