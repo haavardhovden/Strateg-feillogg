@@ -83,3 +83,5 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 **Fibr NO/DK (Sondre + Jonathan 8. okt):** UGC kun for Sverige foreløpig. NO/DK starter med oversatte svenske annonser og testing av vinkler, fordi det som funker i ett marked kan prestere annerledes i et annet. Lokal UGC først når vi vet hvilke vinkler som er sterkest. Jonathan foreslår HeyGen-oversettelse av svensk UGC, kun hvis det høres helt naturlig ut. Spørsmål sendt til Adam 8. okt. **Lovet Adam et HeyGen-eksempel innen 9. okt** (bruk video der kreatøren har sagt ja til AI, eller Håvard selv).
 
 **Design Letters (Sondre 8. okt):** Kunden er 100 % enig med oss. Bare to endringer: fjern «DL» under logoen (behold plassering, ny logo kommer) og rett hjertet (uavklart hva). Så til godkjenning. Se roles/dl-produktkontroll.md.
+
+**UGC-produktutsending (Sondre 8. okt):** Håvard eier utsending av produkt til kreatører, ikke Sondre. Én person per task, ellers blir det rot. Flyt: finn sendingsinfo i Slack → bestill med 100 %-koden (Notion → klient → «Product & shipping») → legg ordrenummer i tråden → oppdater kunden. Jonathan oppdaterer Slack-boten så Håvard blir tagget.
