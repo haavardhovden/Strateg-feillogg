@@ -34,12 +34,18 @@ Hver bokstav i hver annonse sjekkes mot ekte produktbilde FØR levering. Helst: 
 ## DL_S#1 – bokstaver som må sjekkes
 | Annonse | Bokstaver | Status |
 |---|---|---|
-| A1 | – (kun hjerte) | OK (klient) |
+| A1 | – (kun hjerte) | OK (klient 6. okt), men Sondre 8. okt: hjertet er feil. Avklar |
 | B2 | B (armbånd) | Sjekk |
 | C3 | G (+ variant) | Sjekk |
 | D4 | 4 bokstaver | Sjekk |
 | E5 | B, A | Sjekk |
 | F6 | A, B, K | Sjekk |
-| G7 | – (kun hjerte) | OK (klient) |
+| G7 | – (kun hjerte) | OK (klient 6. okt), men Sondre 8. okt: hjertet er feil. Avklar |
 | H8 | A | Sjekk |
-| I9 | – (kun hjerte) | OK (klient) |
+| I9 | – (kun hjerte) | OK (klient 6. okt), men Sondre 8. okt: hjertet er feil. Avklar |
+
+## Status 8. okt (Sondre etter samtale med kunden)
+Kunden er 100 % enig med oss. Bare to endringer før godkjenning:
+1. Logo: fjern «DL» under logoen og behold plasseringen. De bytter logo senere (står trolig i onboardingdokumentet).
+2. Hjertet er feil. Uavklart hvilket (A1/G7/I9) og hva som er feil, siden kunden sa 6. okt at hjertene var OK. Spør Sondre før Felix endrer.
+Deretter sendes batchen til godkjenning.
