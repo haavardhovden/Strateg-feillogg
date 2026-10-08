@@ -75,7 +75,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Rabatt/førpris: mulig Forbrukertilsynet-sjekk, spør (S#64.1)
 - [ ] **Fibr (snabbpolicy v1.4):** ingen AI i bilder eller video. AI-genererte vinnere kan ikke itereres eller oversettes (Sondre 30. sept)
 - [ ] **Fibr:** ingen negativt ladede vinklinger: skyld, anger, "dårlig samvittighet", "förbjudet". Si det positivt (S#18 F6 skrudd av)
-- [ ] **Fibr:** kun Sverige til nettsiden for NO/DK er klar. Ingen NO/DK-oversettelser før Jonathan/Sondre sier fra
+- [ ] **Fibr NO/DK (8. okt):** start med oversatte svenske annonser og test vinkler. Lokal UGC først når vi vet hva som funker. AI-oversatt UGC (HeyGen) kun etter OK fra Adam
 - [ ] **Fibr video:** lenke til font (Filson Pro) og brand guidelines/farger i Notes, også når det står "same font as original" (Jonathan 30. sept)
 - [ ] **Fibr UGC (Adam 5. okt, VELDIG viktig):** INGEN setninger med "jag" i manus, ikke bare om smak. Ikke skriv hva kreatøren tenker/mener/gjør ("jag tycker", "jag gillar", "jag letade", "så här kommer jag", "wow"). Nøytral, faktabasert tekst. Smaksbeskrivelse: kreatøren beskriver selv, uten "jag" (f.eks. "Mjuk, mycket kanel"). Søk etter "jag" i hele manuset før sending. Kjernen: vi legger ikke ord/meninger i munnen på kreatøren. Om kreatøren selv kan si "jag" spontant: ubekreftet, spør Adam
 - [ ] **Fibr kola-serien:** "fri från raffinerat socker" er godkjent (Adam 5. okt)

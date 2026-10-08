@@ -79,3 +79,5 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 **Vidda (Sondre 7. okt):** Alle Vidda-ads pauset ut oktober, til Black Month. CPC 5,2 kr er ok, men ROAS svært dårlig → problemet ligger etter klikket, trolig utsolgte farger. Vent med nye Vidda-batcher til farger er tilbake på lager. Black Month-batch er neste Vidda-leveranse.
 
 **Provisjon (Sondre, Slack 30. sept):** «selv om Jonathan briefer en batch her og der, men du fortsatt har ansvaret for klienten, får du fremdeles full provisjon». Mine klienter 30. sept: Stille DK+NO, Fibr, Vidda SE+NO, Designletters, iGlow, Luftig. Sofanova når onboardet. 7. okt: Jonathan støtter Stille static (format-diversitet, tidligere vinnervinkler) så Håvard kan ta Stille UGC-manus.
+
+**Fibr NO/DK (Sondre + Jonathan 8. okt):** UGC kun for Sverige foreløpig. NO/DK starter med oversatte svenske annonser og testing av vinkler, fordi det som funker i ett marked kan prestere annerledes i et annet. Lokal UGC først når vi vet hvilke vinkler som er sterkest. Jonathan foreslår HeyGen-oversettelse av svensk UGC, kun hvis det høres helt naturlig ut. Spørsmål sendt til Adam 8. okt.
