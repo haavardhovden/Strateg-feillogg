@@ -89,6 +89,7 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | DL_S#1 | 2026-10-06 | klient (jj) | Bokstavene ser ikke ut som ekte produkt: bail-plassering, bokstavform, størrelse, bail-form. Hjerter OK | system | DL: produktkontroll per bokstav × størrelse | ja |
 | DL_S#1 | 2026-10-07 | intern (Sondre) | 3+ runder frem og tilbake på AI-genererte bokstaver. Klient misfornøyd, forsinket andre leveranser | system | Ekte produktbilder før AI på produktnære annonser | ja |
 | FB_klientmelding | 2026-10-08 | intern (Sondre, Jonathan) | Svar til Adam («three countries») manglet hvorfor vi venter med UGC i NO/DK. Sondre: test først, UGC per land etterpå. Jonathan: forklar at markeder presterer ulikt, «ellers blir det bare klaging». Claude sa «ikke legg til mer» uten å kjøre regelen | system | Til klient, strategi: nå / videre / hvorfor (Sondre 6. okt) | ja |
+| Klientmeldinger | 2026-10-08 | intern (Sondre) | «Du har vist at du får til det.» Klientmeldinger sendes direkte uten Sondre. Ukentlig gjennomgang av forbedringer i stedet | ros | Send selv; utkast til Sondre bare ved kompliserte meldinger | – |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
