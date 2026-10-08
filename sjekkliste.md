@@ -156,4 +156,4 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Uklart hva Jonathan vil ha fikset? Én presis avklaring før sending, ikke etter
 - [ ] Automatisk QA feilet, men uenig? Status "Force upload" finnes (Jonathan 22. sept). Én linje begrunnelse per QA-punkt
 - [ ] Usikker mellom to versjoner? Lever begge, la Jonathan velge. Raskere enn en runde (S#86.1)
-- [ ] Sendingsinfo til kreatør (adresse, navn, telefon): kopier og sjekk tegn for tegn mot kreatørens egen melding, ikke mot handlekurv eller skjermbilde (FB_U#3 8. okt: Lövhamnarsvägen vs Lövhammarsvägen, Claude sjekket mot handlekurven)
+- [ ] Sendingsinfo til kreatør (adresse, navn, telefon): kopier og sjekk tegn for tegn mot kreatørens egen melding, ikke mot handlekurv eller skjermbilde (FB_U#3 8. okt: Claude i Chrome skrev «Lövhamnarsvägen» i handlekurven, riktig er «Lövhammarsvägen». Claude-sjekken sammenlignet mot handlekurven og fanget det ikke). Gjelder også når Claude i Chrome fyller ut skjema: les feltene mot kilden før du bestiller
