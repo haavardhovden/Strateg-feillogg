@@ -84,6 +84,6 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 
 **Design Letters (Sondre 8. okt):** Kunden er 100 % enig med oss. Bare to endringer: fjern «DL» under logoen (behold plassering, ny logo kommer) og rett hjertet (uavklart hva). Så til godkjenning. Se roles/dl-produktkontroll.md.
 
-**UGC-produktutsending (Sondre 8. okt):** Håvard eier utsending av produkt til kreatører, ikke Sondre. Én person per task, ellers blir det rot. Flyt: finn sendingsinfo i Slack → bestill med 100 %-koden (Notion → klient → «Product & shipping») → legg ordrenummer i tråden → oppdater kunden. Jonathan oppdaterer Slack-boten så Håvard blir tagget.
+**UGC-produktutsending (Sondre 8. okt):** Håvard eier utsending av produkt til kreatører, ikke Sondre. Én person per task, ellers blir det rot. Flyt: finn sendingsinfo i Slack → bestill med 100 %-koden (Notion → klient → «Product & shipping») → legg ordrenummer i tråden → oppdater kunden. Jonathan oppdaterer Slack-boten så Håvard blir tagget. **Fibr unntak (Adam 8. okt):** koden dekker ikke frakt, så send ordren manuelt til help@fibr.se (produkt + kreatørens sendingsinfo).
 
 **Klientmeldinger (Sondre 8. okt):** Håvard sender direkte til klient, ikke via Sondre. Kompliserte meldinger: utkast til Sondre først. Sondre og Håvard går gjennom forbedringer ukentlig. Claude-sjekken (✓/✗ mot klientreglene) gjelder fortsatt: ett utkast, én sjekk, send.
