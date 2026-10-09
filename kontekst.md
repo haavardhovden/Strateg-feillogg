@@ -91,3 +91,5 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 **Fibr founder ads (Jonathan + Sondre 8. okt):** Håvards forslag. Ble planlagt før, manus skrevet, men aldri filmet. Nå: avtal filmdato med Adam før manus skrives (Sondre: ikke bruk tid på manus som ikke blir noe av). Format: Adam snakker til kamera, vi legger på B-roll. Spørsmål sendt til Adam 8. okt. Uavklart internt: hvor mye tid det tar for Adam, og hvem som filmer.
 
 **Provisjon september (faktura 9. okt):** September var før avtalen og har egne vilkår: 35 000 kr fast + 20 % av Vekst sitt honorar = 43 959,79 kr eks. mva. Avtalen fra 1. okt (15 000 kr + 10 %) gjelder fra oktober, og oktober-provisjonen utbetales 22. nov.
+
+**Design Letters språk (Sondre 9. okt):** DL_S#1 godkjent. Oversettes kun til tysk, fransk og italiensk. Belgia/Luxembourg kjører på engelsk, fordi landene har flere språk (kontoen bruker engelsk der i dag).
