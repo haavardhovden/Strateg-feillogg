@@ -95,3 +95,5 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 **Design Letters språk (Sondre 9. okt):** DL_S#1 godkjent. Oversettes kun til tysk, fransk og italiensk. Belgia/Luxembourg kjører på engelsk, fordi landene har flere språk (kontoen bruker engelsk der i dag).
 
 **Fibr Norge utsatt (Adam 9. okt):** Norge droppes til alt er avklart: kvitteringer og fakturaer må lagres i 5 år, DDP med PostNord gjør prisene høyere enn i EU, og hver pakke krever håndsignert opprinnelsesbevis. Adam vil prioritere EU-markeder og vente med Norge til det er traction der marginen er høyere. Sondre: med Fibr lages ingenting for nye markeder før nettsiden er 100 % klar. Erstatter NO-delen av planen fra 8. okt.
+
+**iGlow IG_S#2 (Ole 10. okt):** Godkjent («Ser ingen åpenbare feil. Kjør på»). Innspill til neste batch: ny svensk UGC-video fra Sofie Olsson (@husetmellanhagarna), ligger i iGlows Dropbox under _KUNDEBILDER → _UGC (lenken i Slack-kanalen vekst-x-iglow). Vinkel å teste: «En favoritt blant norske kunder i over 10 år», kombinert med kundeerfaringer og resultater. Ole tror svensk person + norsk historikk bygger tillit.
