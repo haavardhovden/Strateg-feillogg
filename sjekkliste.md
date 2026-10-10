@@ -157,3 +157,4 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Automatisk QA feilet, men uenig? Status "Force upload" finnes (Jonathan 22. sept). Én linje begrunnelse per QA-punkt
 - [ ] Usikker mellom to versjoner? Lever begge, la Jonathan velge. Raskere enn en runde (S#86.1)
 - [ ] Sendingsinfo til kreatør (adresse, navn, telefon): kopier og sjekk tegn for tegn mot kreatørens egen melding, ikke mot handlekurv eller skjermbilde (FB_U#3 8. okt: Claude i Chrome skrev «Lövhamnarsvägen» i handlekurven, riktig er «Lövhammarsvägen». Claude-sjekken sammenlignet mot handlekurven og fanget det ikke). Gjelder også når Claude i Chrome fyller ut skjema: les feltene mot kilden før du bestiller
+- [ ] Utsettes en brief for å vente på data: avtal ny siste frist med en arbeidsdag buffer for Felix. Aldri brief kvelden før han legger seg (iGlow IG_S#2, 9. okt: utsatt torsdag → fredag, endte som hastebrief, Jonathan måtte hjelpe med design)
