@@ -54,7 +54,7 @@ Regi-notater (hva som vises i klippet) er OK i notes, men ikke som replikk i fø
 Om kreatøren selv kan si "jag" spontant er ikke avklart med kunden. Ikke skriv det inn, ikke be om det.
 
 ## Andre Fibr-regler (kundekrav + compliance v1.4)
-- Ingen AI-genererte bilder/klipp. Ingen negative vinkler.
+- AI er lov for Fibr fra 10. okt (Sondre). Ingen negative vinkler.
 - Kun forhåndsgodkjente claims (compliance v1.4). Ikke helse, energi, metthet, mage, søtsug.
 - 25 g-bars: "runt 5 gram fiber". Bruk kun 25 g-bars i klipp, ikke 40 g fikabars.
 - Fika-serien: "låg sockerhalt". Kola-serien: "fri från raffinerat socker" (samme ordlyd overalt, også i Notion). Frukt-serien: "utan tillsatt socker" (fibr.se).
@@ -83,7 +83,7 @@ Vis alltid denne tabellen, én rad per regel:
 | 5 | Kun godkjente claims, ingen helse/energi/metthet | | | |
 | 6 | Riktige seriepåstander (Fika: låg sockerhalt / Kola: fri från raffinerat socker / Frukt: utan tillsatt socker) | | | |
 | 7 | "runt 5 gram fiber", 25 g-bars i klipp | | | |
-| 8 | Ingen AI, ingen negativ vinkel | | | |
+| 8 | Ingen negativ vinkel (AI lov fra 10. okt) | | | |
 | 9 | Alle lenker testet (Loom + eksempelvideoer) | | | |
 | 10 | Loom med i briefen | | | |
 | 11 | Kort beskrivelse av målet med videoen | | | |

@@ -73,7 +73,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Kilder: legg lenke i Comments til Jonathan
 - [ ] Returvilkår må stemme før "risikofritt"/"30 dagers åpent kjøp" går på bildet
 - [ ] Rabatt/førpris: mulig Forbrukertilsynet-sjekk, spør (S#64.1)
-- [ ] **Fibr (snabbpolicy v1.4):** ingen AI i bilder eller video. AI-genererte vinnere kan ikke itereres eller oversettes (Sondre 30. sept)
+- [ ] **Fibr AI (Sondre 10. okt):** AI er nå lov for Fibr, og AI-annonser kan oversettes til DK. Erstatter AI-forbudet fra 30. sept. Oversettelser trenger ikke godkjenning, de lanseres direkte
 - [ ] **Fibr:** ingen negativt ladede vinklinger: skyld, anger, "dårlig samvittighet", "förbjudet". Si det positivt (S#18 F6 skrudd av)
 - [ ] **Fibr nye markeder (Sondre 9. okt):** ingenting produseres for et nytt marked før nettsiden er 100 % klar til å selge. Norge er utsatt på ubestemt tid (Adam 9. okt: toll, DDP og opprinnelsesbevis). Andre EU-markeder: avklar med Sondre før noe lages. AI-oversatt UGC (HeyGen) kun etter OK fra Adam
 - [ ] **Fibr video:** lenke til font (Filson Pro) og brand guidelines/farger i Notes, også når det står "same font as original" (Jonathan 30. sept)
