@@ -101,3 +101,5 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 **Fibr AI og DK (Sondre 10. okt):** AI er nå lov for Fibr. AI-statics beholdes i oversettelsen til DK, og DK-oversettelsene lanseres uten godkjenning. Danmark fortsetter altså, Norge er fortsatt utsatt.
 
 **Fibr founder ads (Adam 10. okt):** Nei foreløpig. «We start with what is in the pipeline that we agreed upon. However I will think about it.» Ikke brief founder ads før han sier ja. HeyGen-eksempel (SE → DK) sendt 11. okt.
+
+**Fibr HeyGen (Adam 11. okt):** Svar på eksempelet: «it clearly shows that it is dubbed however the voice sounds natural». Ja til å teste uten talking head, nei med talking head fordi det kan skade merkevaren. Passer med Jonathans plan om UGC som voiceover på B-roll.
