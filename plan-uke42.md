@@ -38,3 +38,23 @@ Fibr-regler som gjelder alle: ingen AI-bilder, ingen negative vinklinger, compli
 5. **Vidda**: Black Month, rolig.
 
 Felix og Carlo jobber ikke i helgen. Alt de skal produsere fredag må være briefet senest torsdag.
+
+## Fra møtet med Jonathan (11. okt) – går foran forslagene over
+
+**Design Letters**
+- «Passed down to later generations»-vinkelen presterer, og får kunden til å konkludere.
+
+**Stille**
+- Mer video og mer variasjon i videoinnholdet.
+- Carlo starter på ukentlig iterasjon fra statisk til video (Loom-SOP).
+- Send noen AI-statics til produksjon.
+- «Vi søker etter …»-batch, f.eks. «Vi søker etter nakensovere som har ru tekstiler og surt sengesett». Lag én for hver kunde, Vidda senere.
+- Høstbatch: høstvinkel i brunt og terrakotta.
+- Hud og hår: f.eks. overgangsalder, når håret brekker lettere.
+- Iterer på hver vinkel, og ta vinnerkonseptene videre i video (B-roll med text overlay).
+
+**Fibr**
+- Brokkoli-sammenligning som statisk annonse, og en A–Z static-batch.
+- Splittest hovedpoengene fra den beste videoen (produksjonsvideoen) i en static-batch: ekte mat mot ultraprosessert, bakt trygt i Sverige, svenskprodusert så du vet hva du får. Se hva som presterer, og doble ned i video.
+- Bruk UGC som voiceover på B-roll med text overlay.
+- Mer budsjett til produksjonsvideoen. Melding til Adam om strategien.
