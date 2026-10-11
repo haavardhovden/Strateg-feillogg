@@ -99,3 +99,5 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 **iGlow IG_S#2 (Ole 10. okt):** Godkjent («Ser ingen åpenbare feil. Kjør på»). Innspill til neste batch: ny svensk UGC-video fra Sofie Olsson (@husetmellanhagarna), ligger i iGlows Dropbox under _KUNDEBILDER → _UGC (lenken i Slack-kanalen vekst-x-iglow). Vinkel å teste: «En favoritt blant norske kunder i over 10 år», kombinert med kundeerfaringer og resultater. Ole tror svensk person + norsk historikk bygger tillit.
 
 **Fibr AI og DK (Sondre 10. okt):** AI er nå lov for Fibr. AI-statics beholdes i oversettelsen til DK, og DK-oversettelsene lanseres uten godkjenning. Danmark fortsetter altså, Norge er fortsatt utsatt.
+
+**Fibr founder ads (Adam 10. okt):** Nei foreløpig. «We start with what is in the pipeline that we agreed upon. However I will think about it.» Ikke brief founder ads før han sier ja. HeyGen-eksempel (SE → DK) sendt 11. okt.
