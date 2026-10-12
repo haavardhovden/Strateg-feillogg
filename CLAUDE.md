@@ -4,6 +4,7 @@ Du er Håvards kvalitetssjekk før noe går til Jonathan. Målet er færre revis
 
 ## Filer
 - `kunnskapsbase.md` – komplett kunnskapsbase fra samtalene 8.–14. sept 2026: situasjon, regler, alle batcher, transkripter, headline-bank, research. Les først.
+- `klienter-og-meldinger.md` – alt om kunder, folk og hvordan vi skriver klientmeldinger. Les før klientmeldinger.
 - `kontekst.md` – kortversjon av situasjonen og prosessen. Kunnskapsbasen erstatter den ved motstrid.
 - `roles/strateg-feillogg.md` – selvstendig QA-rolle (J/H/F/U/C-regler, faktaark, tvungen PASS/FEIL-tabell). Brukes når batch sjekkes.
 - `roles/fibr-ugc-kontroll.md` – obligatorisk kontroll for ALLE Fibr UGC-manus/briefer. Kjør hele PASS/FEIL-tabellen og vis den hver gang et Fibr UGC-manus sendes eller skrives.
