@@ -91,6 +91,11 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | FB_klientmelding | 2026-10-08 | intern (Sondre, Jonathan) | Svar til Adam («three countries») manglet hvorfor vi venter med UGC i NO/DK. Sondre: test først, UGC per land etterpå. Jonathan: forklar at markeder presterer ulikt, «ellers blir det bare klaging». Claude sa «ikke legg til mer» uten å kjøre regelen | system | Til klient, strategi: nå / videre / hvorfor (Sondre 6. okt) | ja |
 | Klientmeldinger | 2026-10-08 | intern (Sondre) | «Du har vist at du får til det.» Klientmeldinger sendes direkte uten Sondre. Ukentlig gjennomgang av forbedringer i stedet | ros | Send selv; utkast til Sondre bare ved kompliserte meldinger | – |
 | FB_NO/DK | 2026-10-09 | intern (Sondre) | Fibr lanserer ikke i Norge (Adam: toll, DDP, opprinnelsesbevis). Tid brukt på NO-oversettelser og HeyGen-planen for NO blir ikke brukt. Teamets beslutning, ikke enkeltpersons | system | Fibr: ingenting til nye markeder før nettsiden er 100 % klar | ja |
+| FB_S#24 | 2026-10-12 | klient (Adam via Sondre) | Liker brokkoli-vinkelen | ros | – | – |
+| FB_S#24 | 2026-10-12 | klient (Adam via Sondre) | Liker ikke at sammenligningen sier «spis dette i stedet for brokkoli». Håvard hadde tenkt på det, men trodde det var greit | smak | Fibr: ikke still baren opp mot sunn mat som erstatning. Sammenlign på bekvemmelighet (på farten) | nei |
+| FB_S#24 | 2026-10-12 | klient (Adam via Sondre) | B2: metalltallerkenen ser ut som en hundeskål. Jonathan beholdt B2 | craft | Rekvisitter: se bildet som kunden, hva kan det minne om? | nei |
+| FB_S#24 | 2026-10-12 | Claude-sjekk | C3 «smakar förbjudet gott»: «förbjudet» står på Fibrs negativ-liste | slurv | Fibr: ingen negativt ladede vinklinger (S#18 F6) | ja |
+| FB_S#24 | 2026-10-12 | Claude-sjekk | To frames heter A1 og to heter B2 i Figma | slurv | Unik variantkode per frame (IG_S#1) | ja |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
