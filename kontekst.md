@@ -107,3 +107,5 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 **Fibr approval (Adam 12. okt):** V#26, V#27 og V#28 godkjent («Videos ok»). Statics S#23 (Factory video test) og S#24 (Fiber comparison): «The statics not in Sweden but try them in Denmark first maybe?» S#21 (Real fika taste) sendt etterpå, ikke svart på. Åpent: DK-nettsiden er ikke klar, og 18 av 37 Fibr-annonser i uke 42 er SE-statics. Avklar med Sondre/Jonathan før svar.
 
 **Fibr S#24 Fiber comparison (Adam via Sondre 12. okt, call pågår):** Adam liker brokkoli-vinkelen, men ikke at den sier «spis dette i stedet for brokkoli». B2 (bar på metalltallerken) ser ut som en hundeskål. Han foreslår å vinkle mot på farten: én fikabar i veska mot en boks med 160 g brokkoli. Tall i batchen: 160 g brokkoli 4,2 g fiber, fikabar 4,5 g.
+
+**Fibr statics, Adams beslutning (12. okt kl. 21:11):** S#23: fjern A1-bildet. S#24: endre copy så den er mer «not compared against». S#21: «Don't launch?». Utkastet om «lower quality» sendes ikke, det er overtatt av dette. Ved revisjon av S#24: fjern også «förbjudet» i C3 og rett doble variantkoder (A1/B2).
