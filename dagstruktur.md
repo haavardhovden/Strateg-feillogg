@@ -5,6 +5,7 @@ Mål: holde momentum også i tunge uker. Juster tidene etter oppsettet du gikk g
 ## Fast dag
 | Tid | Blokk | Innhold |
 |---|---|---|
+| 09:15–10:00 | Læring | Før innboksen. Én konkret oppgave knyttet til en kunde (se «Læringsblokk» under). Svaret skrives inn i klienter-og-meldinger.md. |
 | 10:00–10:15 | Plan | Velg dagens 3 viktigste. Svar kort i klientkanalene («Ser på det, kommer tilbake innen X»). |
 | 10:15–12:15 | Blokk 1 | Dypt arbeid: den viktigste tasken, helst det Felix eller Carlo trenger først. |
 | 12:15–12:45 | Innboks | Klienter, Slack, godkjenninger til Felix og Carlo (fast tid 1). |
@@ -23,11 +24,18 @@ Inne i blokkene: 50 min arbeid og 10 min pause. Klientkanalene sjekkes bare i pa
 - Utsettes en brief for å vente på data: avtal en ny siste frist med en arbeidsdag i buffer for Felix (iGlow 9. okt).
 - Mer volum enn dager i uka: si fra til Jonathan samme dag, med listen, og spør hva som kan vente. Ikke vent til fredag.
 - Avklar Felix' arbeidstid i norsk tid, og sett en fast daglig frist for briefer til ham.
+- Klientmeldinger: skriv med min-skrivestil.md, maks to runder, så send. Vanskelig melding: legg den til Sondre i Slack og gå videre til neste task mens han ser på den.
+- Avslutt én ting før du åpner neste. Klientkanaler bare i pausene.
 
-## I morgen (søndag 11. okt)
-| Blokk | Task |
-|---|---|
-| 1 | Oversett Stille-annonsene til Nederland |
-| Pause | Sjekk om iGlow har svart på batchen |
-| 2 | Fibr (iterasjonsbatch FB_U#2 eller UGC-manusene, det du og Jonathan ble enige om) |
-| 3 | HeyGen-eksempelet til Adam (lovet i løpet av helgen) |
+## Læringsblokk (09:15–10:00 hver dag)
+Læring er jobb når den er knyttet til en kunde. Én oppgave per dag, for eksempel:
+1. Fibr: list Jonathans batcher etter onboarding i rekkefølge. Hva testet han, hva vant, hva gjorde han så?
+2. iGlow: samme for egen onboarding-batch. Hva skjedde etter den, og hva er neste test?
+3. Breakthrough Advertising: ett kapittel, én linje om hva det betyr for dagens batch.
+4. Én YouTube-video om kreativ strategi, notér én ting du bruker samme uke.
+
+## Fredagsgjennomgang (fredag 16:00–17:00, i Blokk 3)
+1. Alt som fikk revisjon eller ble avvist denne uka: hva var grunnen?
+2. Ett mønster → én regel i sjekkliste.md.
+3. Hva gjorde Jonathan annerledes på samme kunde?
+4. Neste ukes volum mot dager: si fra til Jonathan hvis det ikke går opp.
