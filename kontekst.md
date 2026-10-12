@@ -103,3 +103,5 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 **Fibr founder ads (Adam 10. okt):** Nei foreløpig. «We start with what is in the pipeline that we agreed upon. However I will think about it.» Ikke brief founder ads før han sier ja. HeyGen-eksempel (SE → DK) sendt 11. okt.
 
 **Fibr HeyGen (Adam 11. okt):** Svar på eksempelet: «it clearly shows that it is dubbed however the voice sounds natural». Ja til å teste uten talking head, nei med talking head fordi det kan skade merkevaren. Passer med Jonathans plan om UGC som voiceover på B-roll.
+
+**Fibr approval (Adam 12. okt):** V#26, V#27 og V#28 godkjent («Videos ok»). Statics S#23 (Factory video test) og S#24 (Fiber comparison): «The statics not in Sweden but try them in Denmark first maybe?» S#21 (Real fika taste) sendt etterpå, ikke svart på. Åpent: DK-nettsiden er ikke klar, og 18 av 37 Fibr-annonser i uke 42 er SE-statics. Avklar med Sondre/Jonathan før svar.
