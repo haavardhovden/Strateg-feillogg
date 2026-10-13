@@ -96,6 +96,7 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | FB_S#24 | 2026-10-12 | klient (Adam via Sondre) | B2: metalltallerkenen ser ut som en hundeskål. Jonathan beholdt B2 | craft | Rekvisitter: se bildet som kunden, hva kan det minne om? | nei |
 | FB_S#24 | 2026-10-12 | Claude-sjekk | C3 «smakar förbjudet gott»: «förbjudet» står på Fibrs negativ-liste | slurv | Fibr: ingen negativt ladede vinklinger (S#18 F6) | ja |
 | FB_S#24 | 2026-10-12 | Claude-sjekk | To frames heter A1 og to heter B2 i Figma | slurv | Unik variantkode per frame (IG_S#1) | ja |
+| FB_S#23 | 2026-10-13 | Claude-sjekk | C3 «5 ingredienser»: fibr.se har 7 (mangler lakritspulver 1,5 % og salmiak). Gikk til Adam 12. okt uten å bli fanget | slurv | Ingredienslister og tall sjekkes mot kundens produktside før brief | nei |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
