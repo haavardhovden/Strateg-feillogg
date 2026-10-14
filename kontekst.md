@@ -111,3 +111,5 @@ Solution aware-kunde hos Stille: vet hun sover varmt, vet kjølende sengetøy fi
 **Fibr statics, Adams beslutning (12. okt kl. 21:11):** S#23: fjern A1-bildet. S#24: endre copy så den er mer «not compared against». S#21: «Don't launch?». Utkastet om «lower quality» sendes ikke, det er overtatt av dette. Ved revisjon av S#24: fjern også «förbjudet» i C3 og rett doble variantkoder (A1/B2).
 
 **Fibr UGC «ugly ads» (14. okt):** Videobatch sendt til Adam for godkjenning: iterasjoner av beste UGC-videoer med minimal redigering, mer rå og autentisk. Jonathan: ikke nødvendig å sende til ham først, men spesifiser til kunden at lite redigering er bevisst. Venter på svar fra Adam.
+
+**Fibr UGC-iterasjoner, Adams svar (14. okt):** «Ok, but not optimal». Video 1: fjern «wow», for mye skriptet følelse. Ny policy: følelser bare i uskriptede videoer. Video 3: «25 different flavors» er feil (25 bars, minst 12 smaker), klipp ut eller erstatt. Håvards idé: gjøre gamle vinnere om til animasjon.
