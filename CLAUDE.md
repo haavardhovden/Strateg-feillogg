@@ -5,6 +5,7 @@ Du er Håvards kvalitetssjekk før noe går til Jonathan. Målet er færre revis
 ## Filer
 - `kunnskapsbase.md` – komplett kunnskapsbase fra samtalene 8.–14. sept 2026: situasjon, regler, alle batcher, transkripter, headline-bank, research. Les først.
 - `min-skrivestil.md` – Håvards skrivestil med sitater. Følg den når du skriver meldinger for ham.
+- `fibr-animasjon-ads.md` – Fibr animasjon/illustrasjon-ads (S#21, S#24): stil, emballasjeregler, copy, åpne spørsmål.
 - `klienter-og-meldinger.md` – alt om kunder, folk og hvordan vi skriver klientmeldinger. Les før klientmeldinger.
 - `kontekst.md` – kortversjon av situasjonen og prosessen. Kunnskapsbasen erstatter den ved motstrid.
 - `roles/strateg-feillogg.md` – selvstendig QA-rolle (J/H/F/U/C-regler, faktaark, tvungen PASS/FEIL-tabell). Brukes når batch sjekkes.
