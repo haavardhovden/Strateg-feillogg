@@ -99,7 +99,7 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | FB_S#23 | 2026-10-13 | Claude-sjekk | C3 «5 ingredienser»: fibr.se har 7 (mangler lakritspulver 1,5 % og salmiak). Gikk til Adam 12. okt uten å bli fanget | slurv | Ingredienslister og tall sjekkes mot kundens produktside før brief | nei |
 | FB_UGC iterasjon | 2026-10-14 | klient (Adam) | Video 1: «wow» er for mye skriptet følelse. Ny policy fra Adam: følelser bare i uskriptede videoer, ikke i skriptede | system | Fibr UGC: ingen skriptede reaksjoner («wow»), også i iterasjoner av gamle vinnere | ja |
 | FB_UGC iterasjon | 2026-10-14 | klient (Adam) | Video 3: «25 different flavors» er feil. Provboxen har 25 bars med minst 12 ulike smaker. Klipp ut eller erstatt | slurv | Fakta i UGC sjekkes mot produktsiden, også i gamle vinnere | nei |
-| FB_UGC (2 videoer) | 2026-10-16 | klient (Adam) | Video 2 sa igjen «25 different flavors». Adam: «I previously gave this feedback». Hans ordlyd: «25 st blandade bars». Video 1 «very good» | slurv | Søk etter tallpåstander i hver UGC før sending til Adam | ja |
+| FB_UGC (2 videoer) | 2026-10-16 | klient (Adam) | Video 2 sa igjen «25 different flavors». Adam: «I previously gave this feedback». Hans ordlyd: «25 st blandade bars». Video 1 «very good». Adam godkjente video 2 som den er («use the video like it is»), men ikke bruk formuleringen fremover | slurv | Søk etter tallpåstander i hver UGC før sending til Adam | ja |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
