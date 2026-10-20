@@ -1,3 +1,5 @@
+> **STOPPET (Adam 20. okt):** S#21 godkjent, men ingen flere animerte annonser. Tilbake til Fibrs innholdsbibliotek. S#24-animasjon lages ikke.
+
 # Fibr – animasjon-ads (uke 42)
 
 ## Hva skal lages
