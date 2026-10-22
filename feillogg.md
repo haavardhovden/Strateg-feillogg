@@ -102,6 +102,7 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | FB_UGC (2 videoer) | 2026-10-16 | klient (Adam) | Video 2 sa igjen «25 different flavors». Adam: «I previously gave this feedback». Hans ordlyd: «25 st blandade bars». Video 1 «very good». Adam godkjente video 2 som den er («use the video like it is»), men ikke bruk formuleringen fremover | slurv | Søk etter tallpåstander i hver UGC før sending til Adam | ja |
 | iGlow static (lash compliments 40s/50s) | 2026-10-18 | klient (Geir) | Logoen på produktet var endret («liten overhaling»). Må endres | slurv | Zoom inn på produktlogo og sammenlign med ekte emballasje | nei |
 | FB_S#21 animasjon + FB video-iterasjon | 2026-10-20 | klient (Adam) | Video: «ok, no more no less». Static: ok, men ingen flere animerte. Tilbake til innholdsbiblioteket | smak | Animasjonsstil avsluttet for Fibr | nei |
+| iGlow video-iterasjoner (Chelsea m.fl.) | 2026-10-22 | klient (Leiv, Geir) | Kreatøren sier «all natural», upresist (Isopropyl Cloprostenate). Klipp ut. Ellers «veldig bra», «inne på en bra sti» | craft | Påstander i iterasjoner sjekkes selv om originalen er klientens aktive annonse | nei |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
