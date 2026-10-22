@@ -142,6 +142,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] **Til klient:** start med konklusjonen (hva vi gjør / hva vi trenger), så hvorfor. Maks 3 punkter
 - [ ] **Til klient:** ingen interne ord (ITE, A1/B2, batch, hook rate). Si "nye versjoner av vinneren", "første 3 sekunder"
 - [ ] **Til klient, svar på kritikk:** gi rett → gjenta problemet konkret → prinsippet → hva vi fortsatt mener → handling → eie egen del → takk. Se kommunikasjon-eksempler.md (Sondre til Adam 6. okt)
+- [ ] **Til klient, status/estimat (Sondre 22. okt):** konkret, ikke bredt. Svar på neste spørsmål før det stilles: hvor mange (antall videoer/statics), hva (format), når (dag for approval, ikke launch). Dekk alle formater klienten har hørt om (video, statics, UGC). Ingen «the rest will follow continuously». Test: vet klienten noe nytt etter meldingen?
 - [ ] **Til klient:** ett tydelig spørsmål med frist: "Kan dere godkjenne X innen torsdag?"
 - [ ] **Til klient:** tall med kontekst: "ROAS 4,2, over målet på 3" i stedet for bare tallet
 - [ ] **Til klient:** bekreft avtaler skriftlig etter møter: "Kort oppsummert: vi gjør X, dere sender Y innen Z"

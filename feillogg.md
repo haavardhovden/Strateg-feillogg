@@ -103,6 +103,7 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | iGlow static (lash compliments 40s/50s) | 2026-10-18 | klient (Geir) | Logoen på produktet var endret («liten overhaling»). Må endres | slurv | Zoom inn på produktlogo og sammenlign med ekte emballasje | nei |
 | FB_S#21 animasjon + FB video-iterasjon | 2026-10-20 | klient (Adam) | Video: «ok, no more no less». Static: ok, men ingen flere animerte. Tilbake til innholdsbiblioteket | smak | Animasjonsstil avsluttet for Fibr | nei |
 | iGlow video-iterasjoner (Chelsea m.fl.) | 2026-10-22 | klient (Leiv, Geir) | Kreatøren sier «all natural», upresist (Isopropyl Cloprostenate). Klipp ut. Ellers «veldig bra», «inne på en bra sti» | craft | Påstander i iterasjoner sjekkes selv om originalen er klientens aktive annonse | nei |
+| Fibr klientmelding (estimat til Adam) | 2026-10-22 | intern (Sondre) | «First videos should be sent for approval tomorrow, the rest will follow continuously» er for bredt. Mangler antall, statics, hva «continuously» betyr. Claude-miss: godkjente meldingen | system | Til klient-regel: konkret antall + format + dag, svar på neste spørsmål | nei |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
