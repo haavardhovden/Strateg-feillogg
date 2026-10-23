@@ -18,6 +18,7 @@ Mål: holde momentum også i tunge uker. Juster tidene etter oppsettet du gikk g
 Inne i blokkene: 50 min arbeid og 10 min pause. Klientkanalene sjekkes bare i pausene, så 30-minuttersregelen holder.
 
 ## Regler
+- **Ukesvolum i prioritetsrekkefølge (Jonathan + Sondre 23. okt):** Urgent ferdig 100 % før High startes, High ferdig før Medium, osv. Ikke del opp en Urgent-kunde for å «vente på data». Eksempel: Designletters (Urgent, 15) ferdig dag 1, Fibr (High, 30) dag 2 eller delt man/tir, så Stille NL/DK, Stille NO, iGlow (Low). Ukesvolum-listen er to do-listen.
 - Én task per blokk. Ferdig betyr sendt.
 - Står du fast: skriv én linje om hva du venter på, og gå videre.
 - Det Felix trenger, sendes før du logger av. Aldri brief rett før han legger seg.
