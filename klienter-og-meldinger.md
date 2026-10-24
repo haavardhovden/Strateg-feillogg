@@ -14,7 +14,7 @@ Samlet 12. okt 2026 fra kontekst.md, sjekkliste.md, kommunikasjon-eksempler.md, 
 - **Tobias Teigen:** media buyer (Stille). Kom med «Mer i kurven, mindre å betale».
 
 **Hos kundene**
-- **Fibr:** Adam (hovedkontakt, godkjenner alt). «T» er en Adam sjekker med.
+- **Fibr:** Sonja er kontaktperson fra 24. okt (alt utenom godkjenning). Adam og Therese («T») godkjenner fortsatt innhold. Send batcher til godkjenning i gruppen slik at Adam og Therese ser dem.
 - **iGlow:** Ole (godkjenner batcher) og Geir (tall og påstander, skriftlig OK på kundetall).
 - **Design Letters:** jj.
 - **Stille, Vidda, Luftig, Sofanova, House of Miklagaard:** går via Sondre/Jonathan.
