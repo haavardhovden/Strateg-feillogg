@@ -105,6 +105,7 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | iGlow video-iterasjoner (Chelsea m.fl.) | 2026-10-22 | klient (Leiv, Geir) | Kreatøren sier «all natural», upresist (Isopropyl Cloprostenate). Klipp ut. Ellers «veldig bra», «inne på en bra sti» | craft | Påstander i iterasjoner sjekkes selv om originalen er klientens aktive annonse | nei |
 | Fibr klientmelding (estimat til Adam) | 2026-10-22 | intern (Sondre) | «First videos should be sent for approval tomorrow, the rest will follow continuously» er for bredt. Mangler antall, statics, hva «continuously» betyr. Claude-miss: godkjente meldingen | system | Til klient-regel: konkret antall + format + dag, svar på neste spørsmål | nei |
 | Ukesvolum uke 43 | 2026-10-23 | intern (Jonathan, Sondre) | Feil prioritering: Stille NL/DK og iGlow ferdig før Designletters (Urgent, 12/15) og Fibr (High, 22/30). Tanken var å vente på data før resten | system | Produser i prioritetsrekkefølge, Urgent 100 % først (dagstruktur.md) | nei |
+| Fibr videobatcher 25. okt | 2026-10-25 | klient (Adam) | Fabrikk-sekvensen «fria från … / Helt utan spår av» skal unngås fremover. «Our mistake», ligger i deres assets | smak | Lagt på nei-listen | nei |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 

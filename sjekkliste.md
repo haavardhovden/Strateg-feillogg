@@ -85,6 +85,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] **Fibr provbox:** 25 bars med minst 12 ulike smaker (ifølge nettsiden). Aldri «25 olika smaker»/«25 different flavors». Adams ordlyd: «25 st blandade bars». Hør gjennom hver UGC etter tallpåstander før sending, også godkjente manus, fordi kreatører improviserer (Adam 14. og 16. okt, Gjentatt)
 - [ ] **Fibr kola-serien:** "fri från raffinerat socker" er godkjent (Adam 5. okt)
 - [ ] **Fibr statics (Adam 20. okt):** ingen flere animerte/illustrerte annonser etter S#21. Bruk Fibrs eget innholdsbibliotek (ekte bilder). «I don't think this style will do the brand more good»
+- [ ] **Fibr nei-klipp (Adam 25. okt):** ikke bruk fabrikk-sekvensen med barer på samlebånd + «Våra fikabars är fria från: Gluten/Mandel/Mjölk/Nötter/Ägg/Soja» + «Helt utan "spår av"». Ligger i Fibrs egne assets, men skal unngås. Uavklart: gjelder det også «spår av»-påstanden i statics, eller bare klippet?
 - [ ] **iGlow:** ingen spesifikke resultatløfter i overskrifter (f.eks. "dag 45", "på 3 uker"). Klienten har bedt om det. Sjekk også USP-er og grafer med uketall
 - [ ] **iGlow:** anmeldelser KUN fra iGlows produktside (Judge.me), nær originalordlyd. Gullstjerner, aldri Trustpilot-grønt/logo (Jonathan + Geir 5. okt)
 - [ ] **iGlow:** ingen ekte kreatør-/kundeansikt med tekst vi har skrevet ("putter ord i munnen"). Snapchat-format ok, men produkt/vipper uten identifiserbart ansikt (C3, 5. okt)
