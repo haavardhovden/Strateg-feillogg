@@ -93,6 +93,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] **iGlow:** ingen reparasjonspåstander ("få tillbaka", "reparera", "stärka", "växa"). Bruk "längre och fylligare utseende" (Ole 5. okt, A1)
 - [ ] **iGlow:** logo på produktet zoomes inn og sjekkes mot ekte emballasje før sending. AI/redigering endrer logoen (Geir 18. okt)
 - [ ] **iGlow:** aldri «all natural»/«naturlig» om serumet. Inneholder Isopropyl Cloprostenate. Gjelder også iterasjoner av klientens egne aktive annonser (Leiv + Geir 22. okt)
+- [ ] **iGlow tilbud (Geir 25. okt):** rabattkode på utvalgte produkter = «Offer», ikke «Sale». «Sale»/«low prices» bare når prisene faktisk er satt ned i butikken. Koden skal stå i alle varianter
 - [ ] **iGlow:** produktet må se ut som den ekte tuben (lengde/applikator). Ingen AI-bilde som kan leses som ekte resultat (D4)
 - [ ] **iGlow:** varighet = "cirka 3 månader" (opptil 3–5 ved korrekt bruk). Resultater "vanligtvis 3–8 veckor", aldri garantert
 
