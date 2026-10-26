@@ -107,6 +107,11 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | Ukesvolum uke 43 | 2026-10-23 | intern (Jonathan, Sondre) | Feil prioritering: Stille NL/DK og iGlow ferdig før Designletters (Urgent, 12/15) og Fibr (High, 22/30). Tanken var å vente på data før resten | system | Produser i prioritetsrekkefølge, Urgent 100 % først (dagstruktur.md) | nei |
 | Fibr videobatcher 25. okt | 2026-10-25 | klient (Adam) | Fabrikk-sekvensen «fria från … / Helt utan spår av» skal unngås fremover. «Our mistake», ligger i deres assets | smak | Lagt på nei-listen | nei |
 | IG_S#4 + IG_S#5 Halloween | 2026-10-25 | klient (Geir) | «Halloween Sale» skal være «Halloween Offer» (rabattkode på utvalgte produkter, ikke reduserte priser). Ingenting rart fra KI. Ønsker mer bruk av materialet i deres database | craft | Ny iGlow-regel: Offer vs Sale | nei |
+| DL_S#7 Bracelet angle test (DE) | 2026-10-26 | klient (Jacob) | E5: dårlig tysk + snakker om bokstaver uten bokstaver i bildet | slurv | Tysk språkvask før sending | ja |
+| DL_S#7 Bracelet angle test (DE) | 2026-10-26 | klient (Jacob) | D4: bokstaver nevnt uten å vises. Bruk kundens tekst «Von: Mir / Für Mich …» | system | Ny DL-regel: bokstaver | nei |
+| DL_S#7 Bracelet angle test (DE) | 2026-10-26 | klient (Jacob) | B2: «Ein Geschenk, das nicht in der Schublade landet» nedvurderer produktet | smak | Ny DL-regel: tone | nei |
+| DL_S#7 Bracelet angle test (DE) | 2026-10-26 | klient (Jacob) | F6: «Es tut uns leid»-format er nedlatende mot kunden | smak | Ny DL-regel: tone | nei |
+| DL_S#7 Bracelet angle test (DE) | 2026-10-26 | klient (Jacob) | A1 + C3: tekst for stor, flytt opp/ned | craft | DL layout: liten tekst | nei |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 

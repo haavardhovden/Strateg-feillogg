@@ -115,6 +115,10 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Ingen elementer kuttet av kanter (doodles, emoji), ingen løse streker/rammer igjen fra layout (IG_S#1 C3/D4)
 - [ ] Typografi per språk: SE/DK/DE ” ” (ikke « »), NO « ». Tankestrek – i intervaller (3–5, 3–8), konsekvent i hele annonsen
 - [ ] **Design Letters (klient 6. okt):** hver bokstav × størrelse sjekkes mot ekte produktbilde: form, størrelse, bail-plassering, bail-form (skarp). Bruk helst ekte produktfoto, ikke AI. Se roles/dl-produktkontroll.md
+- [ ] **Design Letters, bokstaver (Jacob 26. okt):** ikke snakk om bokstaver/«lag din egen» når bildet ikke viser bokstaver. Enten vis bokstavene, eller la teksten handle om det som er i bildet
+- [ ] **Design Letters, tone (Jacob 26. okt):** on brand. Ingen tekst som nedvurderer produktet ved å si det motsatte («ikke havner i skuffen»), ingen «vi beklager»-/omvendt-psykologi-format (oppleves nedlatende). Bruk kundens egne formuleringer, f.eks. «Von: Mir / Für Mich», «Original dänisches Schmuckdesign, handgefertigt aus recyceltem 925er Sterlingsilber mit 18 Karat Gelbvergoldung»
+- [ ] **Design Letters, tysk (Jacob 26. okt, «Bad German»):** all tysk tekst språkvaskes av tysk morsmålsbruker eller kundens egen copy før sending. Ikke send maskinoversatt/egen tysk (stod som «trenger tysk språkvask» i plan uke 41)
+- [ ] **Design Letters, layout (Jacob 26. okt):** liten, diskret tekststørrelse. Tekst skal ikke dominere bildet
 - [ ] Alle kunder: produktet i bildet skal se ut som det ekte produktet (iGlow-tube 5. okt, DL-bokstaver 6. okt). Sammenlign side om side med produktsiden før levering
 - [ ] "Ser dette ut som AI?" Hud, ansikt, hender, hår. Hvis en ekte fotograf ikke hadde fått til posituren, eller huden ser ut som plast: tilbake til Felix før Jonathan (S#77.1 B2)
 - [ ] Tegn på AI-look: unaturlig kroppsstilling, for perfekt hår, for glatt stoff, for "rent" bilde, objekter som løser seg opp i bakgrunnen (S#79 C3)
