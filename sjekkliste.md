@@ -72,7 +72,8 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] Sitater: kutt for lengde er ok, ikke kutt forbehold. Rett staving, rør ikke stemmen
 - [ ] Testimonial diktet opp må merkes (Grüns: "*Fictionalized scenario")
 - [ ] Kilder: legg lenke i Comments til Jonathan
-- [ ] Returvilkår må stemme før "risikofritt"/"30 dagers åpent kjøp" går på bildet
+- [ ] Returvilkår må stemme før "risikofritt"/"30 dagers åpent kjøp" går på bildet (Stille: 30 dagers åpent kjøp bekreftet av Håvard 26. okt)
+- [ ] Stille: «antibakteriell» om bambus er ok å bruke (Håvard 26. okt). Temperaturregulerende «aldri for varm eller for kald» beholdt bevisst fordi det forklarer mekanismen
 - [ ] Rabatt/førpris: mulig Forbrukertilsynet-sjekk, spør (S#64.1)
 - [ ] **Fibr AI (Sondre 10. okt):** AI er nå lov for Fibr, og AI-annonser kan oversettes til DK. Erstatter AI-forbudet fra 30. sept. Oversettelser trenger ikke godkjenning, de lanseres direkte
 - [ ] **Fibr:** ingen negativt ladede vinklinger: skyld, anger, "dårlig samvittighet", "förbjudet". Si det positivt (S#18 F6 skrudd av)
