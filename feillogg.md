@@ -112,6 +112,7 @@ S#79 (2. sept): tre av fire brief-feil var regler Håvard kjente. Lastgap, ikke 
 | DL_S#7 Bracelet angle test (DE) | 2026-10-26 | klient (Jacob) | B2: «Ein Geschenk, das nicht in der Schublade landet» nedvurderer produktet | smak | Ny DL-regel: tone | nei |
 | DL_S#7 Bracelet angle test (DE) | 2026-10-26 | klient (Jacob) | F6: «Es tut uns leid»-format er nedlatende mot kunden | smak | Ny DL-regel: tone | nei |
 | DL_S#7 Bracelet angle test (DE) | 2026-10-26 | klient (Jacob) | A1 + C3: tekst for stor, flytt opp/ned | craft | DL layout: liten tekst | nei |
+| FB B2B static | 2026-10-27 | klient (Sonja, Therese) | Photoshop-hender så AI-genererte ut. Annonsen skrudd av. Ny kontakt Sonja: kort, konkrete svar, ikke forsvar godkjente tester når flere hos kunden reagerer | craft | Fibr: ingen komposittede hender/personer | ja |
 
 Overgangsalder mekanisme: S#79-regelen sa "navngi mekanismen (bambus)". Bambus var navngitt overalt her, men ikke forklart. Jonathan brukte ordet mekanisme begge ganger. Ikke satt som gjentatt, men regelen var for grunn og er skjerpet.
 
