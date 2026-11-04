@@ -87,6 +87,7 @@ Kjøres mekanisk, alltid, også når Håvard er sikker. Sjekklisten finnes så h
 - [ ] **Fibr kola-serien:** "fri från raffinerat socker" er godkjent (Adam 5. okt)
 - [ ] **Fibr statics (Adam 20. okt):** ingen flere animerte/illustrerte annonser etter S#21. Bruk Fibrs eget innholdsbibliotek (ekte bilder). «I don't think this style will do the brand more good»
 - [ ] **Fibr komposittbilder (Sonja + Therese 27. okt, B2B):** ikke legg inn hender/mennesker i produktbilder, heller ikke Photoshop. Kunden leser det som AI («hands look visibly unnatural»), og det er oppfatningen som teller. Bruk bilder der hender/personer er med i originalfotoet
+- [ ] **Fibr Drive-innhold (Adam 4. nov):** ikke alt i Fibrs content-mapper er godkjent for Meta. Fabrikk-/produksjonsinnhold sjekkes med Adam før bruk
 - [ ] **Fibr nei-klipp (Adam 25. okt):** ikke bruk fabrikk-sekvensen med barer på samlebånd + «Våra fikabars är fria från: Gluten/Mandel/Mjölk/Nötter/Ägg/Soja» + «Helt utan "spår av"». Ligger i Fibrs egne assets, men skal unngås. Avklart (Håvard 26. okt): gjelder bare videosekvensen. «Inga "spår av"» i tekst er ok og godkjent flere ganger
 - [ ] **iGlow:** ingen spesifikke resultatløfter i overskrifter (f.eks. "dag 45", "på 3 uker"). Klienten har bedt om det. Sjekk også USP-er og grafer med uketall
 - [ ] **iGlow:** anmeldelser KUN fra iGlows produktside (Judge.me), nær originalordlyd. Gullstjerner, aldri Trustpilot-grønt/logo (Jonathan + Geir 5. okt)
